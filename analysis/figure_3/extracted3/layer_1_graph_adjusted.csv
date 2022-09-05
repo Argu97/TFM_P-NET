@@ -1,0 +1,1410 @@
+,coef,coef_graph,coef_combined,coef_combined_zscore,coef_combined2
+5-Phosphoribose 1-diphosphate biosynthesis,2.8575831e-08,2.0,2.8575831e-08,-0.1537374,0.2923335
+A tetrasaccharide linker sequence is required for GAG synthesis,1.3557899e-05,8.0,1.3557899e-05,-0.14472422,0.02370969
+ABC transporters in lipid homeostasis,0.0004442946,9.0,0.0004442946,0.14223112,0.19517478
+ADP signalling through P2Y purinoceptor 1,4.0603732e-05,14.0,4.0603732e-05,-0.12670638,-0.23809294
+ADP signalling through P2Y purinoceptor 12,0.00011771858,13.0,0.00011771858,-0.07533272,-0.15326796
+AKT phosphorylates targets in the cytosol,0.00011955341,13.0,0.00011955341,-0.07411037,-0.15234198
+AKT phosphorylates targets in the nucleus,0.00077064545,8.0,0.00077064545,0.35964495,0.40577814
+AKT-mediated inactivation of FOXO1A,3.5800585e-06,4.0,3.5800585e-06,-0.15137142,0.20230862
+ALKBH2 mediated reversal of alkylation damage,9.443301e-10,2.0,9.443301e-10,-0.15375581,0.2923196
+ALKBH3 mediated reversal of alkylation damage,3.6019138e-08,3.0,3.6019138e-08,-0.15373245,0.24642868
+AMPK inhibits chREBP transcriptional activation activity,2.5399477e-05,6.0,2.5399477e-05,-0.1368354,0.12150274
+APC truncation mutants are not K63 polyubiquitinated,0.0,1.0,0.0,-0.15375644,0.33822766
+APC truncation mutants have impaired AXIN binding,7.0690665e-05,10.0,7.0690665e-05,-0.10666256,-0.03927511
+APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1,2.980203e-05,42.0,2.980203e-05,-0.13390243,-1.5289843
+APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway,5.2875443e-08,6.0,5.2875443e-08,-0.15372121,0.108711444
+APOBEC3G mediated resistance to HIV-1 infection,1.4857278e-05,4.0,1.4857278e-05,-0.14385858,0.20799972
+ARL13B-mediated ciliary trafficking of INPP5E,1.3802327e-07,3.0,1.3802327e-07,-0.15366448,0.24648017
+ATF4 activates genes,1.1796049e-08,2.0,1.1796049e-08,-0.15374859,0.29232505
+ATF6 (ATF6-alpha) activates chaperone genes,7.1070403e-06,6.0,7.1070403e-06,-0.14902176,0.11227136
+ATP sensitive Potassium channels,7.0918084e-08,2.0,7.0918084e-08,-0.1537092,0.29235488
+AUF1 (hnRNP D0) binds and destabilizes mRNA,0.00014861688,32.0,0.00014861688,-0.054748382,-1.0099379
+AURKA Activation by TPX2,9.628356e-05,48.0,9.628356e-05,-0.08961266,-1.7708853
+AXIN missense mutants destabilize the destruction complex,2.567695e-11,10.0,2.567695e-11,-0.15375642,-0.07494953
+Abacavir metabolism,9.408022e-08,3.0,9.408022e-08,-0.15369377,0.246458
+Abacavir transmembrane transport,0.0,1.0,0.0,-0.15375644,0.33822766
+Abasic sugar-phosphate removal via the single-nucleotide replacement pathway,7.063233e-07,2.0,7.063233e-07,-0.15328589,0.29267555
+Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate,6.2929073e-10,2.0,6.2929073e-10,-0.15375602,0.29231942
+Acetylation,0.0,1.0,0.0,-0.15375644,0.33822766
+Acetylcholine Neurotransmitter Release Cycle,1.7738874e-06,6.0,1.7738874e-06,-0.15257469,0.109579965
+Acetylcholine regulates insulin secretion,2.0612548e-08,6.0,2.0612548e-08,-0.15374272,0.10869516
+Acrosome Reaction,0.0,1.0,0.0,-0.15375644,0.33822766
+Activated NOTCH1 Transmits Signal to the Nucleus,0.00069930655,20.0,0.00069930655,0.31211922,-0.1811264
+Activated NTRK2 signals through CDK5,7.7006646e-10,5.0,7.7006646e-10,-0.15375593,0.15459374
+Activated NTRK2 signals through FRS2 and FRS3,1.0746732e-05,7.0,1.0746732e-05,-0.146597,0.0681996
+Activated NTRK2 signals through FYN,1.7741435e-05,5.0,1.7741435e-05,-0.14193717,0.16354665
+Activated NTRK2 signals through PI3K,5.2150775e-05,4.0,5.2150775e-05,-0.11901377,0.2268201
+Activated NTRK2 signals through PLCG1,8.795973e-06,2.0,8.795973e-06,-0.14789659,0.29675803
+Activated NTRK2 signals through RAS,3.185018e-05,5.0,3.185018e-05,-0.13253796,0.17066672
+Activated NTRK3 signals through PI3K,8.5705416e-08,5.0,8.5705416e-08,-0.15369934,0.15463659
+Activated NTRK3 signals through PLCG1,2.9946273e-07,2.0,2.9946273e-07,-0.15355694,0.29247022
+Activated NTRK3 signals through RAS,0.00010506126,5.0,0.00010506126,-0.083764985,0.20761311
+Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3,0.000976712,11.0,0.000976712,0.49692577,0.372045
+Activation and oligomerization of BAK protein,1.12277965e-10,3.0,1.12277965e-10,-0.15375637,0.24641056
+Activation of AMPA receptors,0.0,1.0,0.0,-0.15375644,0.33822766
+Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins,2.8489616e-05,43.0,2.8489616e-05,-0.13477676,-1.5755551
+Activation of ATR in response to replication stress,1.1618016e-07,22.0,1.1618016e-07,-0.15367904,-0.6257938
+Activation of BAD and translocation to mitochondria ,5.120402e-07,10.0,5.120402e-07,-0.15341532,-0.07469114
+Activation of BIM and translocation to mitochondria ,1.7344915e-06,3.0,1.7344915e-06,-0.15260093,0.24728584
+Activation of BMF and translocation to mitochondria,1.3564298e-06,4.0,1.3564298e-06,-0.15285279,0.20118645
+Activation of C3 and C5,0.0,1.0,0.0,-0.15375644,0.33822766
+Activation of DNA fragmentation factor,4.4053418e-06,8.0,4.4053418e-06,-0.15082161,0.019090794
+Activation of G protein gated Potassium channels,2.7454511e-05,10.0,2.7454511e-05,-0.13546634,-0.06109447
+Activation of Matrix Metalloproteinases,4.356142e-05,6.0,4.356142e-05,-0.124735974,0.13066827
+Activation of NF-kappaB in B cells,1.8705425e-07,46.0,1.8705425e-07,-0.15363184,-1.727564
+Activation of NOXA and translocation to mitochondria,1.0856337e-05,4.0,1.0856337e-05,-0.14652398,0.20598064
+Activation of Nicotinic Acetylcholine Receptors,9.70356e-09,4.0,9.70356e-09,-0.15374997,0.20050682
+Activation of PPARGC1A (PGC-1alpha) by phosphorylation,5.3788212e-06,6.0,5.3788212e-06,-0.15017308,0.11139921
+Activation of PUMA and translocation to mitochondria,2.009436e-05,6.0,2.009436e-05,-0.14036965,0.11882548
+Activation of RAC1,1.0592447e-06,5.0,1.0592447e-06,-0.15305078,0.1551279
+Activation of RAS in B cells,5.08559e-06,5.0,5.08559e-06,-0.15036844,0.15715982
+Activation of SMO,6.679484e-05,4.0,6.679484e-05,-0.10925795,0.23421031
+Activation of TRKA receptors,9.140058e-06,2.0,9.140058e-06,-0.14766736,0.29693168
+Activation of anterior HOX genes in hindbrain development during early embryogenesis,0.00023175516,44.0,0.00023175516,0.00063805876,-1.5188847
+Activation of gene expression by SREBF (SREBP),6.507169e-07,17.0,6.507169e-07,-0.15332294,-0.3959812
+Activation of the TFAP2 (AP-2) family of transcription factors,1.6136477e-09,4.0,1.6136477e-09,-0.15375537,0.20050274
+"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S",0.0037104,31.0,0.0037104,2.3180995,0.8334443
+Activation of the pre-replicative complex,9.8604705e-06,22.0,9.8604705e-06,-0.14718744,-0.6208763
+"Activation, myristolyation of BID and translocation to mitochondria",9.749125e-05,4.0,9.749125e-05,-0.0888081,0.24970141
+"Activation, translocation and oligomerization of BAX",7.631969e-05,3.0,7.631969e-05,-0.10291252,0.28492567
+Acyl chain remodeling of CL,8.580523e-08,6.0,8.580523e-08,-0.15369928,0.10872805
+Acyl chain remodeling of DAG and TAG,5.071192e-08,4.0,5.071192e-08,-0.15372266,0.20052752
+Acyl chain remodelling of PC,1.693943e-06,9.0,1.693943e-06,-0.15262794,-0.02818611
+Acyl chain remodelling of PE,8.662399e-07,8.0,8.662399e-07,-0.15317935,0.017304773
+Acyl chain remodelling of PG,2.4035096e-06,4.0,2.4035096e-06,-0.15215524,0.20171487
+Acyl chain remodelling of PI,2.7050529e-08,4.0,2.7050529e-08,-0.15373842,0.20051557
+Acyl chain remodelling of PS,5.139052e-07,4.0,5.139052e-07,-0.15341409,0.20076126
+Adrenaline signalling through Alpha-2 adrenergic receptor,2.691535e-06,2.0,2.691535e-06,-0.15196335,0.2936774
+"Adrenaline,noradrenaline inhibits insulin secretion",1.4638528e-06,14.0,1.4638528e-06,-0.15278123,-0.25784513
+Advanced glycosylation endproduct receptor signaling,1.1394098e-05,10.0,1.1394098e-05,-0.14616574,-0.06919945
+Aflatoxin activation and detoxification,8.195816e-08,6.0,8.195816e-08,-0.15370184,0.10872612
+Agmatine biosynthesis,0.0,1.0,0.0,-0.15375644,0.33822766
+Alpha-defensins,8.783216e-07,2.0,8.783216e-07,-0.1531713,0.29276237
+Alpha-oxidation of phytanate,7.909417e-07,6.0,7.909417e-07,-0.15322952,0.109083906
+Alternative complement activation,1.12323235e-08,2.0,1.12323235e-08,-0.15374896,0.29232478
+Amine ligand-binding receptors,4.034841e-06,5.0,4.034841e-06,-0.15106845,0.15662955
+Amino acid transport across the plasma membrane,9.6509375e-06,11.0,9.6509375e-06,-0.14732702,-0.115987726
+Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal,1.1416291e-06,52.0,1.1416291e-06,-0.1529959,-2.0025337
+Amyloid fiber formation,0.036061227,28.0,0.036061227,23.870111,17.297194
+Anchoring fibril formation,0.0,1.0,0.0,-0.15375644,0.33822766
+Anchoring of the basal body to the plasma membrane,0.0020712821,63.0,0.0020712821,1.2261248,-1.46282
+Androgen biosynthesis,3.2651776e-06,2.0,3.2651776e-06,-0.1515812,0.2939669
+Antagonism of Activin by Follistatin,3.6632477e-07,3.0,3.6632477e-07,-0.15351239,0.24659538
+"Antigen Presentation: Folding, assembly and peptide loading of class I MHC",5.247179e-09,18.0,5.247179e-09,-0.15375294,-0.4422155
+Antigen activates B Cell Receptor (BCR) leading to generation of second messengers,7.287723e-07,21.0,7.287723e-07,-0.15327093,-0.5795761
+Antigen processing: Ubiquitination & Proteasome degradation,4.0164523e-05,179.0,2.2438282e-07,-0.15360697,-7.8132305
+Apoptotic cleavage of cell adhesion  proteins,3.7501828e-05,4.0,3.7501828e-05,-0.12877285,0.21942742
+Arachidonate production from DAG,5.5261154e-07,4.0,5.5261154e-07,-0.15338829,0.2007808
+Aryl hydrocarbon receptor signalling,2.461621e-07,6.0,2.461621e-07,-0.15359245,0.10880898
+Assembly of active LPL and LIPC lipase complexes,1.7972036e-06,8.0,1.7972036e-06,-0.15255915,0.017774587
+Assembly of the ORC complex at the origin of replication,0.00035273898,6.0,0.00035273898,0.08123707,0.28669646
+Association of TriC/CCT with target proteins during biosynthesis,0.00046239185,28.0,0.00046239185,0.15428744,-0.66795534
+Astrocytic Glutamate-Glutamine Uptake And Metabolism,7.10518e-09,4.0,7.10518e-09,-0.15375172,0.20050551
+Asymmetric localization of PCP proteins,0.00022614548,39.0,0.00022614548,-0.0030990886,-1.2921728
+Attachment of GPI anchor to uPAR,0.00012756087,5.0,0.00012756087,-0.068775825,0.21896766
+Attenuation phase,1.3048998e-06,12.0,1.3048998e-06,-0.15288712,-0.16610818
+Autodegradation of Cdh1 by Cdh1:APC/C,7.2379464e-07,41.0,7.2379464e-07,-0.15327425,-1.4977502
+Axonal growth inhibition (RHOA activation),5.465906e-07,5.0,5.465906e-07,-0.15339231,0.15486918
+Axonal growth stimulation,1.9766214e-06,4.0,1.9766214e-06,-0.15243962,0.20149943
+B-WICH complex positively regulates rRNA expression,1.5081549e-09,25.0,1.5081549e-09,-0.15375544,-0.76357746
+BBSome-mediated cargo-targeting to cilium,2.9270766e-05,8.0,2.9270766e-05,-0.13425635,0.031639278
+BDNF activates NTRK2 (TRKB) signaling,0.0,1.0,0.0,-0.15375644,0.33822766
+BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members,0.0001056352,5.0,0.0001056352,-0.08338263,0.20790276
+"BMAL1:CLOCK,NPAS2 activates circadian gene expression",1.1473e-07,5.0,1.1473e-07,-0.15368001,0.15465124
+Basigin interactions,0.00924211,9.0,0.00924211,6.003306,4.635041
+Beta defensins,5.8757e-07,5.0,5.8757e-07,-0.153365,0.15488987
+Beta-catenin phosphorylation cascade,0.0001995403,11.0,0.0001995403,-0.020823369,-0.020159
+Beta-oxidation of pristanoyl-CoA,3.014622e-07,5.0,3.014622e-07,-0.15355562,0.15474549
+Beta-oxidation of very long chain fatty acids,3.2670428e-07,8.0,3.2670428e-07,-0.1535388,0.017032485
+Bicarbonate transporters,8.4334366e-05,3.0,8.4334366e-05,-0.09757317,0.2889703
+Binding of TCF/LEF:CTNNB1 to target gene promoters,3.1582347e-06,7.0,3.1582347e-06,-0.15165244,0.064370014
+Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB,0.0,1.0,0.0,-0.15375644,0.33822766
+"Biosynthesis of A2E, implicated in retinal degradation",3.5656604e-09,2.0,3.5656604e-09,-0.15375407,0.2923209
+Biosynthesis of D-series resolvins,1.5912185e-06,4.0,1.5912185e-06,-0.15269637,0.20130496
+Biosynthesis of DHA-derived sulfido conjugates,0.0,1.0,0.0,-0.15375644,0.33822766
+Biosynthesis of DPAn-3 SPMs,4.1156686e-06,3.0,4.1156686e-06,-0.1510146,0.2484875
+Biosynthesis of DPAn-6 SPMs,1.5224547e-06,2.0,1.5224547e-06,-0.15274219,0.2930874
+Biosynthesis of E-series 18(R)-resolvins,0.00011387412,4.0,0.00011387412,-0.07789389,0.25796914
+Biosynthesis of E-series 18(S)-resolvins,3.8420898e-05,4.0,3.8420898e-05,-0.12816057,0.21989124
+Biosynthesis of aspirin-triggered D-series resolvins,2.0905228e-08,4.0,2.0905228e-08,-0.1537425,0.20051247
+Biosynthesis of electrophilic ω-3 PUFA oxo-derivatives,6.16238e-09,2.0,6.16238e-09,-0.15375234,0.29232222
+Biosynthesis of maresins,2.0489165e-07,2.0,2.0489165e-07,-0.15361995,0.2924225
+Biosynthesis of protectins,2.911104e-10,2.0,2.911104e-10,-0.15375625,0.29231924
+Biotin transport and metabolism,0.00023790145,11.0,0.00023790145,0.004732698,-0.00079983525
+Breakdown of the nuclear lamina,0.00018295068,3.0,0.00018295068,-0.031875316,0.3387376
+Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA,2.2851644e-05,13.0,2.2851644e-05,-0.13853276,-0.20114307
+Butyrophilin (BTN) family interactions,9.468747e-07,7.0,9.468747e-07,-0.15312563,0.06325404
+C6 deamination of adenosine,6.06788e-07,2.0,6.06788e-07,-0.1533522,0.2926253
+CASP8 activity is inhibited,0.0018479576,9.0,0.0018479576,1.0773467,0.9035411
+CD209 (DC-SIGN) signaling,9.806088e-07,15.0,9.806088e-07,-0.15310316,-0.30399758
+CD22 mediated BCR regulation,1.7505492e-07,5.0,1.7505492e-07,-0.15363982,0.1546817
+CD28 dependent PI3K/Akt signaling,5.4419798e-09,13.0,5.4419798e-09,-0.15375282,-0.21267252
+CD28 dependent Vav1 pathway,8.514485e-09,9.0,8.514485e-09,-0.15375078,-0.029036667
+CDC6 association with the ORC:origin complex,0.0014363512,7.0,0.0014363512,0.8031359,0.78763884
+CDK-mediated phosphorylation and removal of Cdc6,2.5844285e-05,44.0,2.5844285e-05,-0.13653907,-1.6227988
+CDO in myogenesis,0.000408999,18.0,0.000408999,0.11871732,-0.23581454
+CDT1 association with the CDC6:ORC:origin complex,0.0016641571,36.0,0.0016641571,0.9548994,-0.42874646
+CHL1 interactions,1.1596705e-07,4.0,1.1596705e-07,-0.15367919,0.20056045
+CLEC7A (Dectin-1) induces NFAT activation,6.7855105e-08,7.0,6.7855105e-08,-0.15371124,0.062810436
+CLEC7A/inflammasome pathway,2.0385206e-08,3.0,2.0385206e-08,-0.15374286,0.24642082
+COPI-dependent Golgi-to-ER retrograde traffic,2.8569775e-07,41.0,2.8569775e-07,-0.1535661,-1.4979713
+COPI-independent Golgi-to-ER retrograde traffic,5.3914516e-08,25.0,5.3914516e-08,-0.15372053,-0.763551
+COPI-mediated anterograde transport,5.1556026e-06,59.0,5.1556026e-06,-0.1503218,-2.321868
+COPII-mediated vesicle transport,2.4556699e-05,51.0,2.4556699e-05,-0.13739684,-1.9448087
+COX reactions,1.00797655e-08,2.0,1.00797655e-08,-0.15374972,0.2923242
+CREB3 factors activate genes,0.00012368905,5.0,0.00012368905,-0.071355216,0.21701372
+CRMPs in Sema3A signaling,0.00015831654,7.0,0.00015831654,-0.048286498,0.14267151
+CS/DS degradation,6.307309e-08,7.0,6.307309e-08,-0.15371443,0.06280802
+CTLA4 inhibitory signaling,9.505764e-06,15.0,9.505764e-06,-0.14742373,-0.29969528
+Ca2+ activated K+ channels,1.1510086e-06,3.0,1.1510086e-06,-0.15298964,0.24699138
+Ca2+ pathway,2.7738166e-05,35.0,2.7738166e-05,-0.13527738,-1.2086657
+Calcineurin activates NFAT,2.8170157e-06,7.0,2.8170157e-06,-0.15187976,0.064197816
+Calcitonin-like ligand receptors,0.0,1.0,0.0,-0.15375644,0.33822766
+Calmodulin induced events,8.735274e-05,9.0,8.735274e-05,-0.09556235,0.015042081
+Calnexin/calreticulin cycle,1.4433089e-06,19.0,1.4433089e-06,-0.15279491,-0.4873984
+Carboxyterminal post-translational modifications of tubulin,2.6062671e-05,13.0,2.6062671e-05,-0.13639358,-0.1995226
+Cargo concentration in the ER,6.1404273e-07,19.0,6.1404273e-07,-0.15334737,-0.48781684
+Cargo recognition for clathrin-mediated endocytosis,0.00026914862,60.0,0.00026914862,0.025549455,-2.2345512
+Carnitine synthesis,5.1064484e-07,4.0,5.1064484e-07,-0.15341626,0.20075962
+Caspase-mediated cleavage of cytoskeletal proteins,0.00038931135,11.0,0.00038931135,0.10560146,0.07561001
+Catecholamine biosynthesis,0.0,1.0,0.0,-0.15375644,0.33822766
+Cation-coupled Chloride cotransporters,0.00064941315,3.0,0.00064941315,0.27888042,0.5741405
+Cell redox homeostasis,0.0,1.0,0.0,-0.15375644,0.33822766
+Cellular hexose transport,5.949066e-07,8.0,5.949066e-07,-0.15336011,0.017167838
+Centrosome maturation,2.4379811e-05,54.0,2.4379811e-05,-0.1375147,-2.0826235
+Ceramide signalling,1.6621638e-06,2.0,1.6621638e-06,-0.15264912,0.29315794
+ChREBP activates metabolic gene expression,6.316291e-07,5.0,6.316291e-07,-0.15333566,0.1549121
+Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex,1.4808063e-07,6.0,1.4808063e-07,-0.1536578,0.108759485
+Cholesterol biosynthesis via desmosterol,7.5207236e-06,2.0,7.5207236e-06,-0.14874616,0.29611447
+Cholesterol biosynthesis via lathosterol,2.858475e-06,2.0,2.858475e-06,-0.15185213,0.29376164
+Choline catabolism,1.2818631e-06,2.0,1.2818631e-06,-0.15290247,0.292966
+Chondroitin sulfate biosynthesis,1.5918092e-06,11.0,1.5918092e-06,-0.15269598,-0.12005481
+Chylomicron assembly,7.1218214e-09,2.0,7.1218214e-09,-0.1537517,0.2923227
+Chylomicron clearance,1.0023167e-06,2.0,1.0023167e-06,-0.1530887,0.29282492
+Chylomicron remodeling,4.0058175e-08,3.0,4.0058175e-08,-0.15372975,0.24643074
+Citric acid cycle (TCA cycle),4.625372e-06,19.0,4.625372e-06,-0.15067504,-0.48579252
+Class C/3 (Metabotropic glutamate/pheromone receptors),4.9390087e-06,4.0,4.9390087e-06,-0.1504661,0.2029944
+Classical Kir channels,8.394622e-06,2.0,8.394622e-06,-0.14816397,0.2965555
+Cleavage of Growing Transcript in the Termination Region ,6.5286603e-09,50.0,6.5286603e-09,-0.15375209,-1.9112893
+Cleavage of the damaged purine,6.3486195e-11,2.0,6.3486195e-11,-0.15375641,0.29231915
+Cleavage of the damaged pyrimidine ,0.00011506921,8.0,0.00011506921,-0.07709772,0.07493794
+"Cobalamin (Cbl, vitamin B12) transport and metabolism",2.8763943e-06,9.0,2.8763943e-06,-0.1518402,-0.027589386
+Coenzyme A biosynthesis,7.3548847e-07,4.0,7.3548847e-07,-0.15326646,0.20087309
+Cohesin Loading onto Chromatin,3.456409e-06,8.0,3.456409e-06,-0.1514538,0.01861191
+Collagen chain trimerization,0.0003401351,9.0,0.0003401351,0.07284041,0.14261009
+Collagen degradation,0.0010219541,11.0,0.0010219541,0.52706593,0.3948767
+Common Pathway of Fibrin Clot Formation,4.2981734e-12,5.0,4.2981734e-12,-0.15375644,0.15459335
+Complex I biogenesis,0.0013431183,24.0,0.0013431183,0.74102443,-0.039857555
+Condensation of Prometaphase Chromosomes,5.65329e-06,5.0,5.65329e-06,-0.14999025,0.15744631
+Condensation of Prophase Chromosomes,1.0580345e-05,13.0,1.0580345e-05,-0.14670785,-0.20733583
+Conjugation of carboxylic acids,3.9182076e-05,2.0,3.9182076e-05,-0.12765348,0.31209257
+Constitutive Signaling by AKT1 E17K in Cancer,4.3121026e-06,21.0,4.3121026e-06,-0.15088373,-0.5777677
+Constitutive Signaling by Aberrant PI3K in Cancer,2.6685225e-07,31.0,2.6685225e-07,-0.15357867,-1.038895
+Constitutive Signaling by EGFRvIII,3.221639e-05,13.0,3.221639e-05,-0.13229398,-0.1964171
+Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants,3.288349e-05,16.0,3.288349e-05,-0.13184957,-0.3338062
+Constitutive Signaling by NOTCH1 HD Domain Mutants,1.3670053e-05,11.0,1.3670053e-05,-0.1446495,-0.11395945
+Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants,2.4989462e-05,40.0,2.4989462e-05,-0.13710855,-1.4395957
+Constitutive Signaling by NOTCH1 PEST Domain Mutants,0.00012629385,40.0,0.00012629385,-0.06961991,-1.388472
+Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1:M1580_K2555) Translocation Mutant,4.1024188e-07,5.0,4.1024188e-07,-0.15348314,0.15480037
+Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase,1.03083685e-05,13.0,1.03083685e-05,-0.14688905,-0.20747308
+Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding,0.0028851018,21.0,0.0028851018,1.7682887,0.87603873
+Creatine metabolism,7.82616e-06,5.0,7.82616e-06,-0.14854267,0.15854286
+Creation of C4 and C2 activators,4.245459e-09,2.0,4.245459e-09,-0.15375361,0.29232123
+Cristae formation,8.6193256e-07,8.0,8.6193256e-07,-0.15318222,0.017302599
+Cross-presentation of particulate exogenous antigens (phagosomes),1.613488e-05,4.0,1.613488e-05,-0.14300744,0.20864448
+Cross-presentation of soluble exogenous antigens (endosomes),4.0135174e-07,28.0,4.0135174e-07,-0.15348907,-0.9011014
+Crosslinking of collagen fibrils,4.1896677e-05,2.0,4.1896677e-05,-0.12584502,0.3134625
+Cyclin A/B1/B2 associated events during G2/M transition,6.505182e-06,11.0,6.505182e-06,-0.1494227,-0.11757524
+Cyclin D associated events in G1,1.51071035e-05,32.0,1.51071035e-05,-0.14369215,-1.0773143
+Cysteine formation from homocysteine,4.8874443e-07,3.0,4.8874443e-07,-0.15343085,0.24665718
+Cytochrome c-mediated apoptotic response,4.613475e-09,6.0,4.613475e-09,-0.15375337,0.10868709
+Cytosolic iron-sulfur cluster assembly,1.5933898e-05,8.0,1.5933898e-05,-0.14314133,0.024908738
+Cytosolic tRNA aminoacylation,0.00023067075,18.0,0.00023067075,-8.437068e-05,-0.32580888
+DAP12 signaling,9.5963e-05,21.0,9.5963e-05,-0.08982622,-0.5315156
+DCC mediated attractive signaling,8.86096e-09,9.0,8.86096e-09,-0.15375054,-0.029036496
+DEx/H-box helicases activate type I IFN and inflammatory cytokines production ,4.039185e-09,7.0,4.039185e-09,-0.15375374,0.062778234
+DNA Damage Recognition in GG-NER,0.0003051893,21.0,0.0003051893,0.04955965,-0.4259284
+DNA methylation,3.0777146e-06,9.0,3.0777146e-06,-0.15170608,-0.027487783
+DNA replication initiation,1.5059678e-06,6.0,1.5059678e-06,-0.15275317,0.109444745
+DSCAM interactions,8.507068e-05,7.0,8.507068e-05,-0.09708265,0.105707586
+Deactivation of the beta-catenin transactivating complex,1.8976034e-05,25.0,1.8976034e-05,-0.14111467,-0.75400186
+Deadenylation of mRNA,1.0131115e-07,16.0,1.0131115e-07,-0.15368895,-0.35034987
+Dectin-1 mediated noncanonical NF-kB signaling,5.837555e-07,36.0,5.837555e-07,-0.15336755,-1.268278
+Dectin-2 family,5.1862626e-06,8.0,5.1862626e-06,-0.15030138,0.019484894
+Defective ABCA1 causes Tangier disease,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ABCA12 causes autosomal recessive congenital ichthyosis type 4B,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ABCA3 causes pulmonary surfactant metabolism dysfunction 3 (SMDP3),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ABCA3 causes pulmonary surfactant metabolism dysfunction type 3 (SMDP3),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ABCB11 causes progressive familial intrahepatic cholestasis 2 and benign recurrent intrahepatic cholestasis 2,0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective ABCB4 causes progressive familial intrahepatic cholestasis 3, intrahepatic cholestasis of pregnancy 3 and gallbladder disease 1",0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ABCB6 causes isolated colobomatous microphthalmia 7 (MCOPCB7),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ABCC2 causes Dubin-Johnson syndrome,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ABCC6 causes pseudoxanthoma elasticum (PXE),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ABCC8 can cause hypoglycemias and hyperglycemias,0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective ABCC9 causes dilated cardiomyopathy 10, familial atrial fibrillation 12 and hypertrichotic osteochondrodysplasia",0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ABCD1 causes adrenoleukodystrophy (ALD),0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective ABCD4 causes methylmalonic aciduria and homocystinuria, cblj type (MAHCJ)",0.0,2.0,0.0,-0.15375644,0.2923191
+Defective ABCG5 causes sitosterolemia,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ABCG8 causes gallbladder disease 4 and sitosterolemia,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ACTH causes Obesity and Pro-opiomelanocortinin deficiency (POMCD),2.760771e-07,2.0,2.760771e-07,-0.15357251,0.29245842
+Defective ACY1 causes encephalopathy,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective AHCY causes Hypermethioninemia with S-adenosylhomocysteine hydrolase deficiency (HMAHCHD),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ALG1 causes ALG1-CDG (CDG-1k),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ALG11 causes ALG11-CDG (CDG-1p),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ALG12 causes ALG12-CDG (CDG-1g),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ALG14 causes congenital myasthenic syndrome (ALG14-CMS),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ALG2 causes ALG2-CDG (CDG-1i),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ALG3 causes ALG3-CDG (CDG-1d),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ALG6 causes ALG6-CDG (CDG-1c),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ALG8 causes ALG8-CDG (CDG-1h),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ALG9 causes ALG9-CDG (CDG-1l),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective AMN causes hereditary megaloblastic anemia 1,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective AVP causes neurohypophyseal diabetes insipidus (NDI),1.2171362e-06,2.0,1.2171362e-06,-0.1529456,0.29293332
+Defective AVP causes neurohypophyseal diabetes insipidus (NDI),1.2171362e-06,2.0,1.2171362e-06,-0.1529456,0.29293332
+Defective AVP causes neurohypophyseal diabetes insipidus (NDI),6.2429784e-08,2.0,6.2429784e-08,-0.15371485,0.29235062
+Defective AVP causes neurohypophyseal diabetes insipidus (NDI),6.2429784e-08,2.0,6.2429784e-08,-0.15371485,0.29235062
+Defective B3GALT6 causes EDSP2 and SEMDJL1,3.7699198e-07,4.0,3.7699198e-07,-0.1535053,0.20069218
+Defective B3GALTL causes Peters-plus syndrome (PpS),1.2243218e-12,2.0,1.2243218e-12,-0.15375644,0.2923191
+Defective B3GAT3 causes JDSSDHD,6.893807e-07,4.0,6.893807e-07,-0.15329719,0.20084983
+Defective B4GALT1 causes B4GALT1-CDG (CDG-2d),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective B4GALT1 causes B4GALT1-CDG (CDG-2d),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective B4GALT1 causes B4GALT1-CDG (CDG-2d),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective B4GALT1 causes B4GALT1-CDG (CDG-2d),0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective B4GALT7 causes EDS, progeroid type",8.1960806e-08,4.0,8.1960806e-08,-0.15370184,0.20054328
+Defective BTD causes biotidinase deficiency,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective C1GALT1C1 causes Tn polyagglutination syndrome (TNPS),4.766196e-09,3.0,4.766196e-09,-0.15375327,0.24641293
+Defective CD320 causes methylmalonic aciduria,2.0904625e-09,3.0,2.0904625e-09,-0.15375505,0.24641158
+Defective CFTR causes cystic fibrosis,0.00023804634,38.0,0.00023804634,0.0048292256,-1.2402583
+"Defective CHST14 causes EDS, musculocontractural type",1.9556837e-11,2.0,1.9556837e-11,-0.15375644,0.29231912
+Defective CHST3 causes SEDCJD,3.0509664e-10,2.0,3.0509664e-10,-0.15375625,0.29231927
+Defective CHST6 causes MCDC1,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective CHSY1 causes TPBS,6.4657534e-08,2.0,6.4657534e-08,-0.15371338,0.29235172
+Defective CP causes aceruloplasminemia (ACERULOP),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective CSF2RA causes pulmonary surfactant metabolism dysfunction 4 (SMDP4),2.2708839e-07,2.0,2.2708839e-07,-0.15360516,0.2924337
+Defective CSF2RB causes pulmonary surfactant metabolism dysfunction 5 (SMDP5),9.161331e-08,2.0,9.161331e-08,-0.1536954,0.29236534
+Defective CUBN causes hereditary megaloblastic anemia 1,0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective CYP11A1 causes Adrenal insufficiency, congenital, with 46,XY sex reversal (AICSR)",1.2347405e-06,3.0,1.2347405e-06,-0.15293387,0.24703364
+Defective CYP11B1 causes Adrenal hyperplasia 4 (AH4),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective CYP11B2 causes Corticosterone methyloxidase 1 deficiency (CMO-1 deficiency),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective CYP17A1 causes Adrenal hyperplasia 5 (AH5),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective CYP19A1 causes Aromatase excess syndrome (AEXS),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective CYP1B1 causes Glaucoma,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective CYP21A2 causes Adrenal hyperplasia 3 (AH3),0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective CYP24A1 causes Hypercalcemia, infantile (HCAI)",0.0,1.0,0.0,-0.15375644,0.33822766
+Defective CYP26B1 causes Radiohumeral fusions with other skeletal and craniofacial anomalies (RHFCA),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective CYP26C1 causes Focal facial dermal dysplasia 4 (FFDD4),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective CYP27A1 causes Cerebrotendinous xanthomatosis (CTX),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective CYP27B1 causes Rickets vitamin D-dependent 1A (VDDR1A),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective CYP2R1 causes Rickets vitamin D-dependent 1B (VDDR1B),0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective CYP2U1 causes Spastic paraplegia 56, autosomal recessive (SPG56)",0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective CYP4F22 causes Ichthyosis, congenital, autosomal recessive 5 (ARCI5)",0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective CYP7B1 causes Spastic paraplegia 5A, autosomal recessive (SPG5A) and Congenital bile acid synthesis defect 3 (CBAS3)",0.0,1.0,0.0,-0.15375644,0.33822766
+Defective DHDDS causes retinitis pigmentosa 59,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective DOLK causes DOLK-CDG (CDG-1m),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective DPAGT1 causes DPAGT1-CDG (CDG-1j) and CMSTA2,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective DPM1 causes DPM1-CDG (CDG-1e),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective DPM2 causes DPM2-CDG (CDG-1u),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective DPM3 causes DPM3-CDG (CDG-1o),0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective EXT1 causes exostoses 1, TRPS2 and CHDS",1.2222992e-08,3.0,1.2222992e-08,-0.1537483,0.24641667
+Defective EXT2 causes exostoses 2,2.6702773e-07,3.0,2.6702773e-07,-0.15357855,0.24654527
+Defective FMO3 causes Trimethylaminuria (TMAU),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective GALE can cause Epimerase-deficiency galactosemia (EDG),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective GALK1 can cause Galactosemia II (GALCT2),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective GALNT12 causes colorectal cancer 1 (CRCS1),9.49695e-08,3.0,9.49695e-08,-0.15369318,0.24645846
+Defective GALNT3 causes familial hyperphosphatemic tumoral calcinosis (HFTC),1.08621606e-07,3.0,1.08621606e-07,-0.15368408,0.24646533
+Defective GALT can cause Galactosemia,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective GCK causes maturity-onset diabetes of the young 2 (MODY2),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective GCLC causes Hemolytic anemia due to gamma-glutamylcysteine synthetase deficiency (HAGGSD),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective GFPT1 causes CMSTA1,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective GGT1 causes Glutathionuria (GLUTH),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective GGT1 causes Glutathionuria (GLUTH),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective GGT1 causes Glutathionuria (GLUTH),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective GGT1 causes Glutathionuria (GLUTH),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective GIF causes intrinsic factor deficiency,0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective GNE causes sialuria, Nonaka myopathy and inclusion body myopathy 2",0.0,1.0,0.0,-0.15375644,0.33822766
+Defective GSS causes Glutathione synthetase deficiency (GSS deficiency),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective HEXA causes GM2G1,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective HEXB causes GM2G2,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective HK1 causes hexokinase deficiency (HK deficiency),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective HLCS causes multiple carboxylase deficiency,5.074315e-06,6.0,5.074315e-06,-0.15037595,0.111245535
+Defective LARGE causes MDDGA6 and MDDGB6,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective LFNG causes SCDO3,8.859659e-12,4.0,8.859659e-12,-0.15375644,0.20050193
+Defective LMBRD1 causes methylmalonic aciduria and homocystinuria type cblF,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective MAN1B1 causes MRT15,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective MAOA causes Brunner syndrome (BRUNS),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective MAT1A causes Methionine adenosyltransferase deficiency (MATD),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective MGAT2 causes MGAT2-CDG (CDG-2a),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective MMAA causes methylmalonic aciduria type cblA,3.2347707e-09,2.0,3.2347707e-09,-0.1537543,0.29232073
+Defective MMAB causes methylmalonic aciduria type cblB,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective MMACHC causes methylmalonic aciduria and homocystinuria type cblC,2.2552604e-09,2.0,2.2552604e-09,-0.15375493,0.29232022
+Defective MMADHC causes methylmalonic aciduria and homocystinuria type cblD,2.1371662e-09,3.0,2.1371662e-09,-0.15375502,0.24641159
+Defective MOGS causes MOGS-CDG (CDG-2b),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective MPDU1 causes MPDU1-CDG (CDG-1f),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective MPI causes MPI-CDG (CDG-1b),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective MTR causes methylmalonic aciduria and homocystinuria type cblG,6.579473e-07,3.0,6.579473e-07,-0.15331812,0.24674256
+Defective MTRR causes methylmalonic aciduria and homocystinuria type cblE,3.925716e-09,3.0,3.925716e-09,-0.15375383,0.24641249
+Defective MUT causes methylmalonic aciduria mut type,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective Mismatch Repair Associated With MLH1,5.246694e-06,3.0,5.246694e-06,-0.15026112,0.24905828
+Defective Mismatch Repair Associated With MSH2,6.7563466e-09,3.0,6.7563466e-09,-0.15375194,0.24641392
+Defective Mismatch Repair Associated With MSH3,7.957758e-06,2.0,7.957758e-06,-0.14845501,0.29633504
+Defective Mismatch Repair Associated With MSH6,1.6553724e-08,2.0,1.6553724e-08,-0.15374541,0.29232746
+Defective Mismatch Repair Associated With PMS2,1.1356808e-09,3.0,1.1356808e-09,-0.15375568,0.24641107
+Defective NEU1 causes sialidosis,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective OPLAH causes 5-oxoprolinase deficiency (OPLAHD),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective PAPSS2 causes SEMD-PA,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective PGM1 causes PGM1-CDG (CDG1t),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective PMM2 causes PMM2-CDG (CDG-1a),0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective POMGNT1 causes MDDGA3, MDDGB3 and MDDGC3",1.0452658e-10,2.0,1.0452658e-10,-0.15375638,0.29231915
+"Defective POMT1 causes MDDGA1, MDDGB1 and MDDGC1",2.325494e-12,2.0,2.325494e-12,-0.15375644,0.2923191
+"Defective POMT2 causes MDDGA2, MDDGB2 and MDDGC2",4.1929767e-14,2.0,4.1929767e-14,-0.15375644,0.2923191
+Defective RFT1 causes RFT1-CDG (CDG-1n),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective RHAG causes regulator type Rh-null hemolytic anemia (RHN),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SFTPA2 causes idiopathic pulmonary fibrosis (IPF),0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective SLC11A2 causes hypochromic microcytic anemia, with iron overload 1 (AHMIO1)",0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC12A1 causes Bartter syndrome 1 (BS1),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC12A3 causes Gitelman syndrome (GS),0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective SLC12A6 causes agenesis of the corpus callosum, with peripheral neuropathy (ACCPN)",0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC16A1 causes symptomatic deficiency in lactate transport (SDLT),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC17A5 causes Salla disease (SD) and ISSD,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC17A8 causes autosomal dominant deafness 25 (DFNA25),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC1A1 is implicated in schizophrenia 18 (SCZD18) and dicarboxylic aminoaciduria (DCBXA),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC1A3 causes episodic ataxia 6 (EA6),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC20A2 causes idiopathic basal ganglia calcification 1 (IBGC1),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC22A12 causes renal hypouricemia 1 (RHUC1),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC22A18 causes lung cancer (LNCR) and embryonal rhabdomyosarcoma 1 (RMSE1),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC22A5 causes systemic primary carnitine deficiency (CDSP),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC24A1 causes congenital stationary night blindness 1D (CSNB1D),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC24A4 causes hypomineralized amelogenesis imperfecta (AI),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC24A5 causes oculocutaneous albinism 6 (OCA6),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC26A2 causes chondrodysplasias,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC26A3 causes congenital secretory chloride diarrhea 1 (DIAR1),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC26A4 causes Pendred syndrome (PDS),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC27A4 causes ichthyosis prematurity syndrome (IPS),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC29A3 causes histiocytosis-lymphadenopathy plus syndrome (HLAS),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC2A1 causes GLUT1 deficiency syndrome 1 (GLUT1DS1),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC2A10 causes arterial tortuosity syndrome (ATS),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC2A2 causes Fanconi-Bickel syndrome (FBS),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC2A9 causes hypouricemia renal 2 (RHUC2),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC33A1 causes spastic paraplegia 42 (SPG42),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC34A1 causes hypophosphatemic nephrolithiasis/osteoporosis 1 (NPHLOP1),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC34A2 causes pulmonary alveolar microlithiasis (PALM),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC34A2 causes pulmonary alveolar microlithiasis (PALM),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC34A2 causes pulmonary alveolar microlithiasis (PALM),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC34A2 causes pulmonary alveolar microlithiasis (PALM),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC34A3 causes Hereditary hypophosphatemic rickets with hypercalciuria (HHRH),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC35A1 causes congenital disorder of glycosylation 2F (CDG2F),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC35A1 causes congenital disorder of glycosylation 2F (CDG2F),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC35A1 causes congenital disorder of glycosylation 2F (CDG2F),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC35A1 causes congenital disorder of glycosylation 2F (CDG2F),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC35A2 causes congenital disorder of glycosylation 2M (CDG2M),0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective SLC35A3 causes arthrogryposis, mental retardation, and seizures (AMRS)",0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC35C1 causes congenital disorder of glycosylation 2C (CDG2C),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC35D1 causes Schneckenbecken dysplasia (SCHBCKD),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC36A2 causes iminoglycinuria (IG) and hyperglycinuria (HG),0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective SLC39A4 causes acrodermatitis enteropathica, zinc-deficiency type (AEZ)",0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC3A1 causes cystinuria (CSNU),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC40A1 causes hemochromatosis 4 (HFE4) (duodenum),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC40A1 causes hemochromatosis 4 (HFE4) (macrophages),0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective SLC4A1 causes hereditary spherocytosis type 4 (HSP4),  distal renal tubular acidosis (dRTA) and dRTA with hemolytic anemia (dRTA-HA)",0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective SLC4A4 causes renal tubular acidosis, proximal, with ocular abnormalities and mental retardation (pRTA-OA)",0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC5A1 causes congenital glucose/galactose malabsorption (GGM),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC5A2 causes renal glucosuria (GLYS1),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC5A5 causes thyroid dyshormonogenesis 1 (TDH1),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC5A7 causes distal hereditary motor neuronopathy 7A (HMN7A),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC5A7 causes distal hereditary motor neuronopathy 7A (HMN7A),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC5A7 causes distal hereditary motor neuronopathy 7A (HMN7A),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC5A7 causes distal hereditary motor neuronopathy 7A (HMN7A),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC6A18 may confer susceptibility to iminoglycinuria and/or hyperglycinuria,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC6A18 may confer susceptibility to iminoglycinuria and/or hyperglycinuria,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC6A18 may confer susceptibility to iminoglycinuria and/or hyperglycinuria,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC6A18 may confer susceptibility to iminoglycinuria and/or hyperglycinuria,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC6A19 causes Hartnup disorder (HND),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC6A19 causes Hartnup disorder (HND),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC6A19 causes Hartnup disorder (HND),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC6A19 causes Hartnup disorder (HND),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC6A2 causes orthostatic intolerance (OI),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC6A5 causes hyperekplexia 3 (HKPX3),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC7A7 causes lysinuric protein intolerance (LPI),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC7A9 causes cystinuria (CSNU),0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective SLC9A6 causes  X-linked, syndromic mental retardation,, Christianson type (MRXSCH)",0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SLC9A9 causes autism 16 (AUTS16),0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR)",5.1672973e-06,2.0,5.1672973e-06,-0.150314,0.29492682
+"Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR)",5.1672973e-06,1.0,5.1672973e-06,-0.150314,0.3408354
+"Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR)",0.0,2.0,0.0,-0.15375644,0.2923191
+"Defective SLCO1B1 causes hyperbilirubinemia, Rotor type (HBLRR)",0.0,1.0,0.0,-0.15375644,0.33822766
+"Defective SLCO1B3 causes hyperbilirubinemia, Rotor type (HBLRR)",1.6478324e-07,2.0,1.6478324e-07,-0.15364666,0.29240224
+"Defective SLCO2A1 causes primary, autosomal recessive hypertrophic osteoarthropathy 2 (PHOAR2)",0.0,1.0,0.0,-0.15375644,0.33822766
+Defective SRD5A3 causes SRD5A3-CDG (CDG-1q) and KHRZ,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective ST3GAL3 causes MCT12 and EIEE15,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective TBXAS1 causes Ghosal hematodiaphyseal dysplasia (GHDD),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective TCN2 causes hereditary megaloblastic anemia,2.9752728e-11,2.0,2.9752728e-11,-0.15375642,0.29231912
+Defective TPMT causes Thiopurine S-methyltransferase deficiency (TPMT deficiency),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC),0.0,1.0,0.0,-0.15375644,0.33822766
+Defective UGT1A1 causes hyperbilirubinemia,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective UGT1A4 causes hyperbilirubinemia,0.0,1.0,0.0,-0.15375644,0.33822766
+Defective pro-SFTPB causes pulmonary surfactant metabolism dysfunction 1 (SMDP1) and respiratory distress syndrome (RDS),8.389876e-07,4.0,8.389876e-07,-0.15319751,0.20092532
+Defective pro-SFTPC causes pulmonary surfactant metabolism dysfunction 2 (SMDP2) and respiratory distress syndrome (RDS),1.7096957e-08,2.0,1.7096957e-08,-0.15374506,0.29232773
+Degradation of AXIN,3.9454815e-05,34.0,3.9454815e-05,-0.12747177,-1.1568444
+Degradation of DVL,0.0032197118,35.0,0.0032197118,1.9912047,0.4021815
+Degradation of GABA,1.0565972e-05,2.0,1.0565972e-05,-0.14671743,0.2976513
+Degradation of GLI1 by the proteasome,2.7189724e-05,36.0,2.7189724e-05,-0.13564274,-1.2548511
+Degradation of GLI2 by the proteasome,0.0004300932,35.0,0.0004300932,0.1327702,-1.005615
+Deletions in the AMER1 gene destabilize the destruction complex,1.019228e-06,2.0,1.019228e-06,-0.15307744,0.29283348
+Deletions in the AXIN genes in hepatocellular carcinoma result in elevated WNT signaling,2.2627626e-09,2.0,2.2627626e-09,-0.15375493,0.29232022
+Deposition of new CENPA-containing nucleosomes at the centromere,0.007901548,20.0,0.007901548,5.1102285,3.453525
+Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models,2.0035148e-05,14.0,2.0035148e-05,-0.1404091,-0.24847299
+Dermatan sulfate biosynthesis,8.9416835e-07,4.0,8.9416835e-07,-0.15316075,0.20095316
+Detoxification of Reactive Oxygen Species,6.366442e-05,12.0,6.366442e-05,-0.11134342,-0.1346381
+Digestion of dietary carbohydrate,0.0046963794,5.0,0.0046963794,2.9749556,2.5246475
+Digestion of dietary lipid,2.3698682e-05,3.0,2.3698682e-05,-0.13796847,0.2583702
+Dimerization of procaspase-8,7.4456516e-06,8.0,7.4456516e-06,-0.14879617,0.020625101
+Disassembly of the destruction complex and recruitment of AXIN to the membrane,0.0005134162,19.0,0.0005134162,0.18827969,-0.22902839
+Disinhibition of SNARE formation,5.3376702e-06,3.0,5.3376702e-06,-0.1502005,0.2491042
+Displacement of DNA glycosylase by APEX1,4.5116074e-05,8.0,4.5116074e-05,-0.12370027,0.03963569
+Dissolution of Fibrin Clot,1.0702647e-06,3.0,1.0702647e-06,-0.15304343,0.24695061
+Dopamine Neurotransmitter Release Cycle,2.9402972e-07,7.0,2.9402972e-07,-0.15356056,0.06292458
+Downregulation of ERBB2:ERBB3 signaling,0.00042150763,10.0,0.00042150763,0.12705052,0.13776661
+Downregulation of ERBB4 signaling,3.7743546e-06,7.0,3.7743546e-06,-0.15124197,0.06468095
+Downregulation of SMAD2/3:SMAD4 transcriptional activity,0.000104289335,18.0,0.000104289335,-0.08427925,-0.38958797
+Downregulation of TGF-beta receptor signaling,1.4889862e-06,19.0,1.4889862e-06,-0.15276448,-0.4873753
+Downstream TCR signaling,1.7669577e-06,56.0,1.7669577e-06,-0.15257931,-2.1858525
+Downstream signal transduction,2.4532353e-06,24.0,2.4532353e-06,-0.15212211,-0.71643156
+Downstream signaling of activated FGFR1,0.001523403,14.0,0.001523403,0.8611295,0.5102099
+Downstream signaling of activated FGFR2,0.0012073119,14.0,0.0012073119,0.65055066,0.35069284
+Downstream signaling of activated FGFR3,0.0005414793,14.0,0.0005414793,0.20697525,0.014676708
+Downstream signaling of activated FGFR4,2.4557547e-05,15.0,2.4557547e-05,-0.13739629,-0.29209933
+Dual Incision in GG-NER,1.2684266e-05,30.0,1.2684266e-05,-0.14530623,-0.9867199
+Dual incision in TC-NER,0.0060367477,48.0,0.0060367477,3.8679044,1.2270029
+E2F mediated regulation of DNA replication,2.6269613e-06,15.0,2.6269613e-06,-0.15200637,-0.30316672
+E3 ubiquitin ligases ubiquitinate target proteins,0.00041671956,31.0,0.00041671956,0.12386072,-0.82872987
+ECM proteoglycans,1.625729e-05,13.0,1.625729e-05,-0.1429259,-0.20447095
+EGFR downregulation,0.00016130786,17.0,0.00016130786,-0.046293687,-0.31490466
+EGFR interacts with phospholipase C-gamma,2.3204573e-06,3.0,2.3204573e-06,-0.15221056,0.24758156
+EPH-ephrin mediated repulsion of cells,1.6536316e-06,28.0,1.6536316e-06,-0.1526548,-0.9004695
+EPHA-mediated growth cone collapse,1.9954416e-05,10.0,1.9954416e-05,-0.14046288,-0.06487943
+EPHB-mediated forward signaling,2.8600347e-05,26.0,2.8600347e-05,-0.13470298,-0.7950535
+ER-Phagosome pathway,4.956418e-06,45.0,4.956418e-06,-0.15045449,-1.6792486
+ERBB2 Activates PTK6 Signaling,0.0035966304,6.0,0.0035966304,2.2423067,1.9237443
+ERBB2 Regulates Cell Motility,1.3820326e-05,7.0,1.3820326e-05,-0.14454938,0.0697507
+ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression,4.0681294e-07,17.0,4.0681294e-07,-0.15348543,-0.39610428
+Early Phase of HIV Life Cycle,0.00032543647,7.0,0.00032543647,0.063048236,0.22700953
+Eicosanoid ligand-binding receptors,0.0,1.0,0.0,-0.15375644,0.33822766
+Eicosanoids,1.0401315e-05,2.0,1.0401315e-05,-0.14682712,0.2975682
+Electric Transmission Across Gap Junctions,1.4028132e-07,3.0,1.4028132e-07,-0.153663,0.2464813
+Electron transport from NADPH to Ferredoxin,1.5119675e-05,3.0,1.5119675e-05,-0.14368376,0.25404075
+Elevation of cytosolic Ca2+ levels,1.2473623e-06,5.0,1.2473623e-06,-0.15292546,0.15522283
+Endogenous sterols,2.2257595e-06,4.0,2.2257595e-06,-0.15227365,0.20162515
+Endosomal Sorting Complex Required For Transport (ESCRT),0.00017862064,23.0,0.00017862064,-0.034759976,-0.58161914
+Endosomal/Vacuolar pathway,1.2228067e-05,7.0,1.2228067e-05,-0.14561015,0.06894715
+Energy dependent regulation of mTOR by LKB1-AMPK,1.8494993e-05,23.0,1.8494993e-05,-0.14143515,-0.6624274
+Entry of Influenza Virion into Host Cell via Endocytosis,0.0,1.0,0.0,-0.15375644,0.33822766
+Enzymatic degradation of Dopamine by monoamine oxidase,2.6795934e-09,2.0,2.6795934e-09,-0.15375467,0.29232046
+Enzymatic degradation of dopamine by COMT,2.8473648e-09,2.0,2.8473648e-09,-0.15375455,0.29232055
+Ephrin signaling,1.9335626e-05,12.0,1.9335626e-05,-0.14087512,-0.15700886
+Erythrocytes take up carbon dioxide and release oxygen,0.0012560036,7.0,0.0012560036,0.6829889,0.6966254
+Erythrocytes take up oxygen and release carbon dioxide,0.0003074698,4.0,0.0003074698,0.0510789,0.35566825
+Essential fructosuria,0.0,1.0,0.0,-0.15375644,0.33822766
+Essential pentosuria,0.0,1.0,0.0,-0.15375644,0.33822766
+Establishment of Sister Chromatid Cohesion,4.239497e-06,7.0,4.239497e-06,-0.1509321,0.06491568
+Estrogen biosynthesis,0.0,1.0,0.0,-0.15375644,0.33822766
+Estrogen-dependent gene expression,0.000121487064,72.0,0.000121487064,-0.07282217,-2.8599722
+Ethanol oxidation,1.7506524e-07,5.0,1.7506524e-07,-0.15363982,0.1546817
+Eukaryotic Translation Termination,3.3152995e-05,33.0,3.3152995e-05,-0.13167003,-1.114116
+Export of Viral Ribonucleoproteins from Nucleus,3.0760384e-05,3.0,3.0760384e-05,-0.13326398,0.2619339
+Extrinsic Pathway of Fibrin Clot Formation,2.1948817e-06,2.0,2.1948817e-06,-0.15229422,0.29342675
+FBXL7 down-regulates AURKA during mitotic entry and in early mitosis,1.6970718e-05,34.0,1.6970718e-05,-0.1424506,-1.1681911
+FCERI mediated Ca+2 mobilization,2.115796e-05,18.0,2.115796e-05,-0.13966107,-0.43154067
+FCERI mediated MAPK activation,3.818624e-06,21.0,3.818624e-06,-0.15121248,-0.5780168
+FCERI mediated NF-kB activation,0.0002493716,53.0,0.0002493716,0.012374076,-1.9231715
+FCGR activation,3.6661146e-07,7.0,3.6661146e-07,-0.15351221,0.062961206
+FGFR1 ligand binding and activation,0.00059916166,3.0,0.00059916166,0.24540304,0.54878074
+FGFR1 mutant receptor activation,8.597694e-06,17.0,8.597694e-06,-0.14802869,-0.3919707
+FGFR2 alternative splicing,0.0007710587,18.0,0.0007710587,0.35992026,-0.053099107
+FGFR2 ligand binding and activation,1.6383508e-05,3.0,1.6383508e-05,-0.1428418,0.25467855
+FGFR2 mutant receptor activation,7.171142e-06,14.0,7.171142e-06,-0.14897905,-0.2549649
+FGFR3 ligand binding and activation,1.4281931e-06,3.0,1.4281931e-06,-0.15280499,0.24713127
+FGFR4 ligand binding and activation,9.148164e-07,4.0,9.148164e-07,-0.153147,0.20096359
+FGFR4 mutant receptor activation,0.0,1.0,0.0,-0.15375644,0.33822766
+FGFRL1 modulation of FGFR1 signaling,4.6907448e-05,3.0,4.6907448e-05,-0.122506864,0.27008262
+FMO oxidises nucleophiles,2.0929491e-07,2.0,2.0929491e-07,-0.15361701,0.29242474
+Fanconi Anemia Pathway,0.009186473,18.0,0.009186473,5.9662404,4.193786
+FasL/ CD95L signaling,0.00010224631,4.0,0.00010224631,-0.0856403,0.2521011
+Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion,2.2190447e-08,6.0,2.2190447e-08,-0.15374166,0.108695954
+Fatty acids,5.6302215e-05,2.0,5.6302215e-05,-0.11624809,0.32073233
+Fibronectin matrix formation,0.0,1.0,0.0,-0.15375644,0.33822766
+Folding of actin by CCT/TriC,0.00035283444,7.0,0.00035283444,0.08130067,0.24083605
+Formation of ATP by chemiosmotic coupling,0.0,1.0,0.0,-0.15375644,0.33822766
+Formation of Incision Complex in GG-NER,2.614428e-05,33.0,2.614428e-05,-0.13633922,-1.117653
+Formation of RNA Pol II elongation complex ,1.0819712e-06,42.0,1.0819712e-06,-0.15303564,-1.543478
+Formation of Senescence-Associated Heterochromatin Foci (SAHF),0.00044437105,7.0,0.00044437105,0.14228205,0.28703052
+Formation of TC-NER Pre-Incision Complex,0.022759233,43.0,0.022759233,15.008368,9.895641
+Formation of a pool of free 40S subunits,0.008198289,41.0,0.008198289,5.307916,2.6391966
+Formation of editosomes by ADAR proteins,7.368969e-08,2.0,7.368969e-08,-0.15370736,0.29235628
+Formation of selenosugars for excretion,0.0,1.0,0.0,-0.15375644,0.33822766
+Formation of the Early Elongation Complex,1.4936973e-09,26.0,1.4936973e-09,-0.15375544,-0.80948603
+Formation of the Editosome,1.8731896e-05,3.0,1.8731896e-05,-0.14127731,0.25586367
+"Formation of the active cofactor, UDP-glucuronate",0.0,1.0,0.0,-0.15375644,0.33822766
+Formation of the cornified envelope,1.3631615e-06,21.0,1.3631615e-06,-0.1528483,-0.579256
+"Formation of the ternary complex, and subsequently, the 43S complex",0.00058695284,26.0,0.00058695284,0.23726955,-0.51327777
+Formation of tubulin folding intermediates by CCT/TriC,0.0005392747,11.0,0.0005392747,0.20550655,0.15128987
+Formation of xylulose-5-phosphate,1.0049225e-05,3.0,1.0049225e-05,-0.14706168,0.25148192
+Free fatty acid receptors,4.6599457e-08,2.0,4.6599457e-08,-0.1537254,0.29234263
+Fructose biosynthesis,2.2055278e-09,3.0,2.2055278e-09,-0.15375496,0.24641162
+Fructose catabolism,1.296512e-05,5.0,1.296512e-05,-0.14511913,0.16113627
+Fusion and Uncoating of the Influenza Virion,0.0,1.0,0.0,-0.15375644,0.33822766
+G alpha (12/13) signalling events,0.0011391485,46.0,0.0011391485,0.60514045,-1.1527809
+G alpha (z) signalling events,0.0004854778,17.0,0.0004854778,0.16966723,-0.15131052
+G beta:gamma signalling through PI3Kgamma,0.0013227643,14.0,0.0013227643,0.7274646,0.4089565
+G beta:gamma signalling through PLC beta,0.0013920646,12.0,0.0013920646,0.77363235,0.5357464
+G1/S-Specific Transcription,1.1971627e-05,8.0,1.1971627e-05,-0.14578098,0.022909168
+G2 Phase,6.81263e-08,3.0,6.81263e-08,-0.15371105,0.2464449
+G2/M DNA replication checkpoint,2.6800345e-08,2.0,2.6800345e-08,-0.15373859,0.29233262
+GAB1 signalosome,0.0003198645,8.0,0.0003198645,0.059336215,0.17828901
+GABA A (rho) receptor activation,0.0,1.0,0.0,-0.15375644,0.33822766
+GABA A receptor activation,3.0463216e-08,3.0,3.0463216e-08,-0.15373616,0.24642588
+GABA B receptor activation,4.0103558e-05,16.0,4.0103558e-05,-0.12703958,-0.33016253
+GABA synthesis,0.0,1.0,0.0,-0.15375644,0.33822766
+GLI proteins bind promoters of Hh responsive genes to promote transcription,7.5013113e-06,2.0,7.5013113e-06,-0.1487591,0.2961047
+GLI3 is processed to GLI3R by the proteasome,2.614806e-06,36.0,2.614806e-06,-0.15201446,-1.267253
+GP1b-IX-V activation signalling,6.867959e-05,6.0,6.867959e-05,-0.10800233,0.14334428
+GPVI-mediated activation cascade,2.6537122e-05,22.0,2.6537122e-05,-0.13607751,-0.6124603
+GRB2 events in EGFR signaling,1.5707235e-05,5.0,1.5707235e-05,-0.14329234,0.1625201
+GRB2 events in ERBB2 signaling,0.0005379551,8.0,0.0005379551,0.20462742,0.28834966
+GRB2:SOS provides linkage to MAPK signaling for Integrins ,4.30742e-06,7.0,4.30742e-06,-0.15088685,0.06494997
+GRB7 events in ERBB2 signaling,2.245009e-05,4.0,2.245009e-05,-0.13880028,0.21183148
+GTP hydrolysis and joining of the 60S ribosomal subunit,0.008172838,49.0,0.008172838,5.2909603,2.259084
+Galactose catabolism,6.930056e-06,5.0,6.930056e-06,-0.14913966,0.15809064
+Gamma-carboxylation of protein precursors,0.0,1.0,0.0,-0.15375644,0.33822766
+Gap junction assembly,1.5689126e-05,3.0,1.5689126e-05,-0.14330441,0.2543281
+Gap junction degradation,7.404707e-05,6.0,7.404707e-05,-0.10442653,0.14605303
+Gap-filling DNA repair synthesis and ligation in GG-NER,1.7083164e-05,18.0,1.7083164e-05,-0.1423757,-0.43359703
+Gap-filling DNA repair synthesis and ligation in TC-NER,1.9370897e-05,48.0,1.9370897e-05,-0.14085162,-1.8096999
+Gastrin-CREB signalling pathway via PKC and MAPK,0.0011818012,11.0,0.0011818012,0.63355553,0.4755444
+Generation of second messenger molecules,4.7625522e-07,13.0,4.7625522e-07,-0.15343916,-0.21243493
+Glucagon-like Peptide-1 (GLP1) regulates insulin secretion,5.7375416e-07,16.0,5.7375416e-07,-0.15337421,-0.35011145
+Glucagon-type ligand receptors,0.00043283356,11.0,0.00043283356,0.13459581,0.09757374
+Glucocorticoid biosynthesis,0.0,1.0,0.0,-0.15375644,0.33822766
+Gluconeogenesis,4.0274394e-06,20.0,4.0274394e-06,-0.15107337,-0.53200287
+Glutamate Neurotransmitter Release Cycle,2.569574e-06,8.0,2.569574e-06,-0.1520446,0.018164363
+Glutathione synthesis and recycling,4.1924845e-06,6.0,4.1924845e-06,-0.15096343,0.11080052
+Glycerophospholipid catabolism,1.2065403e-06,4.0,1.2065403e-06,-0.15295264,0.20111082
+Glycine degradation,2.4374716e-05,3.0,2.4374716e-05,-0.1375181,0.25871137
+Glycogen breakdown (glycogenolysis),9.750297e-06,13.0,9.750297e-06,-0.14726083,-0.20775473
+Glycogen storage disease type 0 (liver GYS2),0.0,1.0,0.0,-0.15375644,0.33822766
+Glycogen storage disease type 0 (muscle GYS1),2.5647243e-08,3.0,2.5647243e-08,-0.15373936,0.24642345
+Glycogen storage disease type II (GAA),1.3665648e-08,2.0,1.3665648e-08,-0.15374734,0.292326
+Glycogen storage disease type IV (GBE1),0.0,1.0,0.0,-0.15375644,0.33822766
+Glycogen storage disease type Ia (G6PC),0.0,1.0,0.0,-0.15375644,0.33822766
+Glycogen storage disease type Ib (SLC37A4),0.0,1.0,0.0,-0.15375644,0.33822766
+Glycogen storage disease type XV (GYG1),1.5114398e-09,3.0,1.5114398e-09,-0.15375544,0.24641128
+Glycogen synthesis,6.008649e-05,10.0,6.008649e-05,-0.113727026,-0.044626568
+Glycoprotein hormones,0.0,1.0,0.0,-0.15375644,0.33822766
+Glycosphingolipid metabolism,5.5136957e-07,20.0,5.5136957e-07,-0.15338913,-0.53375703
+Golgi Associated Vesicle Biogenesis,0.0030005863,43.0,0.0030005863,1.845224,-0.0756701
+Golgi Cisternae Pericentriolar Stack Reorganization,1.981939e-05,10.0,1.981939e-05,-0.14055283,-0.06494758
+Growth hormone receptor signaling,8.559605e-07,13.0,8.559605e-07,-0.1531862,-0.2122433
+HATs acetylate histones,5.6663182e-05,61.0,5.6663182e-05,-0.116007626,-2.3876917
+HCN channels,5.8534692e-06,3.0,5.8534692e-06,-0.14985688,0.24936451
+HDACs deacetylate histones,0.0006271483,26.0,0.0006271483,0.26404765,-0.49299288
+HDL assembly,1.0433369e-06,4.0,1.0433369e-06,-0.15306138,0.20102844
+HDL clearance,1.0018064e-05,3.0,1.0018064e-05,-0.14708245,0.25146618
+HDL remodeling,4.866488e-06,4.0,4.866488e-06,-0.15051441,0.20295781
+HDMs demethylate histones,1.6255325e-07,19.0,1.6255325e-07,-0.15364815,-0.4880447
+HDR through Homologous Recombination (HRR),1.3188179e-05,42.0,1.3188179e-05,-0.14497052,-1.5373685
+HDR through MMEJ (alt-NHEJ),0.0006130362,8.0,0.0006130362,0.2546462,0.32623976
+HDR through Single Strand Annealing (SSA),6.517721e-05,24.0,6.517721e-05,-0.1103356,-0.68477756
+HHAT G278V abrogates palmitoylation of Hh-Np,0.0,1.0,0.0,-0.15375644,0.33822766
+HS-GAG biosynthesis,2.9994542e-05,10.0,2.9994542e-05,-0.13377418,-0.059812628
+HS-GAG degradation,9.690351e-06,6.0,9.690351e-06,-0.14730076,0.11357504
+HSF1 activation,3.702487e-05,11.0,3.702487e-05,-0.12909059,-0.102173306
+HSP90 chaperone cycle for steroid hormone receptors (SHR),2.1703374e-05,14.0,2.1703374e-05,-0.13929774,-0.24763112
+Heme biosynthesis,0.0002763724,7.0,0.0002763724,0.03036191,0.20224907
+Heme degradation,2.8342813e-05,3.0,2.8342813e-05,-0.13487455,0.26071388
+Hereditary fructose intolerance,0.0,1.0,0.0,-0.15375644,0.33822766
+Hh mutants that don't undergo autocatalytic processing are degraded by ERAD,1.6880404e-05,35.0,1.6880404e-05,-0.14251079,-1.2141452
+Histidine catabolism,7.7130025e-08,5.0,7.7130025e-08,-0.15370506,0.15463226
+Hormone ligand-binding receptors,2.1889346e-07,2.0,2.1889346e-07,-0.15361062,0.29242957
+HuR (ELAVL1) binds and stabilizes mRNA,6.4625274e-05,8.0,6.4625274e-05,-0.110703304,0.04948112
+Hyaluronan biosynthesis and export,0.0,1.0,0.0,-0.15375644,0.33822766
+Hyaluronan uptake and degradation,6.6710605e-08,8.0,6.6710605e-08,-0.153712,0.016901275
+Hydrolysis of LPC,4.93052e-07,4.0,4.93052e-07,-0.15342797,0.20075075
+Hydrolysis of LPE,8.710977e-10,2.0,8.710977e-10,-0.15375586,0.29231954
+Hydroxycarboxylic acid-binding receptors,0.0,1.0,0.0,-0.15375644,0.33822766
+Hypusine synthesis from eIF5A-lysine,6.98211e-07,5.0,6.98211e-07,-0.1532913,0.1549457
+IKBKB deficiency causes SCID,2.2358742e-07,2.0,2.2358742e-07,-0.15360749,0.29243192
+IKBKG deficiency causes anhidrotic ectodermal dysplasia with immunodeficiency (EDA-ID) (via TLR),2.5494442e-06,3.0,2.5494442e-06,-0.15205802,0.2476971
+IL-6-type cytokine receptor ligand interactions,2.0653342e-05,6.0,2.0653342e-05,-0.13999726,0.11910758
+IP3 and IP4 transport between cytosol and nucleus,0.0,1.0,0.0,-0.15375644,0.33822766
+IP6 and IP7 transport between cytosol and nucleus,0.0,1.0,0.0,-0.15375644,0.33822766
+IPs transport between ER lumen and cytosol,0.0,1.0,0.0,-0.15375644,0.33822766
+IPs transport between ER lumen and nucleus,0.0,1.0,0.0,-0.15375644,0.33822766
+IPs transport between cytosol and ER lumen,0.0,1.0,0.0,-0.15375644,0.33822766
+IPs transport between nucleus and ER lumen,0.0,1.0,0.0,-0.15375644,0.33822766
+IPs transport between nucleus and cytosol,0.0,1.0,0.0,-0.15375644,0.33822766
+IRAK4 deficiency (TLR2/4),0.00012852866,5.0,0.00012852866,-0.06813109,0.21945605
+IRAK4 deficiency (TLR5),2.1400394e-06,4.0,2.1400394e-06,-0.15233076,0.20158191
+IRF3 mediated activation of type 1 IFN,4.0803694e-11,3.0,4.0803694e-11,-0.15375641,0.24641052
+IRF3-mediated induction of type I IFN,2.965241e-06,3.0,2.965241e-06,-0.15178101,0.24790695
+IRS activation,3.7745406e-07,3.0,3.7745406e-07,-0.15350498,0.24660102
+IRS-mediated signalling,3.7167425e-05,22.0,3.7167425e-05,-0.12899563,-0.6070957
+ISG15 antiviral mechanism,3.8108753e-06,55.0,3.8108753e-06,-0.15121765,-2.1389124
+IkBA variant leads to EDA-ID,0.0010095077,7.0,0.0010095077,0.51877415,0.5722299
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,1.2069125e-05,27.0,1.2069125e-05,-0.14571603,-0.8493046
+Import of palmitoyl-CoA into the mitochondrial matrix,1.2909482e-05,8.0,1.2909482e-05,-0.14515619,0.023382455
+Inactivation of APC/C via direct inhibition of the APC/C complex,4.5261724e-05,14.0,4.5261724e-05,-0.12360323,-0.23574226
+Inactivation of CDC42 and RAC1,1.4646695e-09,5.0,1.4646695e-09,-0.15375547,0.15459408
+Influenza Viral RNA Transcription and Replication,1.7608661e-06,53.0,1.7608661e-06,-0.15258336,-2.0481298
+Influenza Virus Induced Apoptosis,0.0,1.0,0.0,-0.15375644,0.33822766
+Inhibition of Signaling by Overexpressed EGFR,9.931043e-06,2.0,9.931043e-06,-0.14714041,0.29733086
+Inhibition of TSC complex formation by PKB,1.0946382e-08,3.0,1.0946382e-08,-0.15374915,0.24641603
+InlA-mediated entry of Listeria monocytogenes into host cells,3.707744e-05,7.0,3.707744e-05,-0.12905557,0.08148753
+InlB-mediated entry of Listeria monocytogenes into host cell,7.5494467e-07,12.0,7.5494467e-07,-0.15325351,-0.16638573
+Inositol transporters,1.3260905e-08,2.0,1.3260905e-08,-0.15374762,0.2923258
+Insulin effects increased synthesis of Xylulose-5-Phosphate,4.544877e-05,2.0,4.544877e-05,-0.12347862,0.31525508
+Insulin processing,2.4619063e-05,17.0,2.4619063e-05,-0.13735531,-0.38388544
+Insulin receptor recycling,0.00041936385,14.0,0.00041936385,0.12562233,-0.046949558
+Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPs/IMPs/VICKZs) bind RNA,5.493078e-08,6.0,5.493078e-08,-0.15371984,0.10871248
+Integrin cell surface interactions,0.00010424268,15.0,0.00010424268,-0.08431032,-0.25188577
+Interaction With Cumulus Cells,0.0,1.0,0.0,-0.15375644,0.33822766
+Interaction With The Zona Pellucida,2.5143565e-10,2.0,2.5143565e-10,-0.15375628,0.29231924
+Interaction between L1 and Ankyrins,2.5466557e-08,7.0,2.5466557e-08,-0.15373948,0.062789045
+Interaction between PHLDA1 and AURKA,0.0,1.0,0.0,-0.15375644,0.33822766
+Interactions of Rev with host cellular proteins,2.7393648e-05,27.0,2.7393648e-05,-0.13550688,-0.841571
+Interactions of Tat with host cellular proteins,2.3122645e-07,2.0,2.3122645e-07,-0.15360239,0.2924358
+Interactions of Vpr with host cellular proteins,1.5185908e-08,27.0,1.5185908e-08,-0.15374632,-0.8553877
+Interconversion of 2-oxoglutarate and 2-hydroxyglutarate,2.3524206e-05,4.0,2.3524206e-05,-0.1380847,0.21237355
+Interconversion of nucleotide di- and triphosphates,0.00084193755,12.0,0.00084193755,0.4071395,0.25812176
+Interconversion of polyamines,0.0,1.0,0.0,-0.15375644,0.33822766
+Interleukin receptor SHC signaling,0.00019788001,13.0,0.00019788001,-0.021929447,-0.11281404
+Interleukin-1 processing,8.02271e-08,2.0,8.02271e-08,-0.153703,0.2923596
+Interleukin-10 signaling,1.6264634e-08,5.0,1.6264634e-08,-0.1537456,0.15460156
+Interleukin-12 signaling,5.9174785e-05,23.0,5.9174785e-05,-0.114334404,-0.6418982
+Interleukin-15 signaling,4.386094e-06,9.0,4.386094e-06,-0.15083444,-0.026827507
+Interleukin-18 signaling,4.9104166e-08,2.0,4.9104166e-08,-0.15372373,0.29234388
+Interleukin-2 signaling,0.0005124113,8.0,0.0005124113,0.18761022,0.27545884
+Interleukin-20 family signaling,2.3647644e-06,10.0,2.3647644e-06,-0.15218104,-0.07375615
+Interleukin-21 signaling,4.6652098e-05,6.0,4.6652098e-05,-0.12267697,0.132228
+Interleukin-23 signaling,1.1039358e-05,4.0,1.1039358e-05,-0.14640206,0.20607302
+Interleukin-27 signaling,1.2263246e-07,8.0,1.2263246e-07,-0.15367475,0.016929505
+Interleukin-33 signaling,2.7455016e-07,2.0,2.7455016e-07,-0.15357354,0.29245764
+Interleukin-35 Signalling,2.049723e-05,8.0,2.049723e-05,-0.14010125,0.02721166
+Interleukin-36 pathway,1.3447394e-06,3.0,1.3447394e-06,-0.15286058,0.24708915
+Interleukin-37 signaling,2.831688e-06,15.0,2.831688e-06,-0.15186998,-0.3030634
+Interleukin-38 signaling,1.1250088e-06,2.0,1.1250088e-06,-0.15300697,0.29288685
+Interleukin-4 and Interleukin-13 signaling,0.00044977528,43.0,0.00044977528,0.14588232,-1.362951
+Interleukin-6 signaling,1.3429955e-05,8.0,1.3429955e-05,-0.14480945,0.023645116
+Interleukin-7 signaling,8.7134526e-05,14.0,8.7134526e-05,-0.095707715,-0.21461093
+Interleukin-9 signaling,0.00012066338,6.0,0.00012066338,-0.073370904,0.16957821
+Intestinal hexose absorption,0.0,1.0,0.0,-0.15375644,0.33822766
+Intestinal infectious diseases,0.0,1.0,0.0,-0.15375644,0.33822766
+Intestinal lipid absorption,0.0,1.0,0.0,-0.15375644,0.33822766
+Intestinal saccharidase deficiencies,0.0,1.0,0.0,-0.15375644,0.33822766
+Intra-Golgi traffic,0.009828471,29.0,0.009828471,6.3939376,4.012779
+Intracellular oxygen transport,0.0,1.0,0.0,-0.15375644,0.33822766
+Intraflagellar transport,0.00024372233,25.0,0.00024372233,0.00861055,-0.6405824
+Intrinsic Pathway of Fibrin Clot Formation,0.00014023151,4.0,0.00014023151,-0.060334686,0.27127054
+Invadopodia formation,6.4340757e-06,4.0,6.4340757e-06,-0.14947009,0.20374893
+Ion homeostasis,3.4576697e-05,12.0,3.4576697e-05,-0.13072157,-0.14931738
+Ion influx/efflux at host-pathogen interface,1.0009527e-06,3.0,1.0009527e-06,-0.15308961,0.24691565
+Ion transport by P-type ATPases,9.3517454e-05,18.0,9.3517454e-05,-0.09145544,-0.39502403
+Ionotropic activity of kainate receptors,6.010462e-07,4.0,6.010462e-07,-0.15335603,0.20080525
+Josephin domain DUBs,0.00014125956,6.0,0.00014125956,-0.059649803,0.17997219
+KSRP (KHSRP) binds and destabilizes mRNA,8.783132e-06,13.0,8.783132e-06,-0.14790516,-0.20824282
+Keratan sulfate biosynthesis,1.9087313e-06,10.0,1.9087313e-06,-0.15248485,-0.07398629
+Keratan sulfate degradation,7.192651e-06,3.0,7.192651e-06,-0.14896472,0.25004032
+Kinesins,5.2402083e-06,14.0,5.2402083e-06,-0.15026544,-0.25593933
+L13a-mediated translational silencing of Ceruloplasmin expression,0.0001236154,49.0,0.0001236154,-0.07140428,-1.8030008
+LDL clearance,5.889072e-06,12.0,5.889072e-06,-0.14983316,-0.16379476
+LDL remodeling,0.0,1.0,0.0,-0.15375644,0.33822766
+LGI-ADAM interactions,1.0627286e-08,4.0,1.0627286e-08,-0.15374936,0.20050728
+LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production,1.2091168e-07,5.0,1.2091168e-07,-0.1536759,0.15465435
+Lactose synthesis,1.292648e-07,3.0,1.292648e-07,-0.15367033,0.24647576
+Laminin interactions,2.1914997e-07,7.0,2.1914997e-07,-0.15361044,0.06288679
+Late Phase of HIV Life Cycle,0.0025641844,97.0,2.6434891e-05,-0.1361456,-2.7749662
+Ligand-receptor interactions,0.0,1.0,0.0,-0.15375644,0.33822766
+Linoleic acid (LA) metabolism,5.952521e-06,4.0,5.952521e-06,-0.1497909,0.20350589
+Lipid particle organization,3.6732848e-07,3.0,3.6732848e-07,-0.15351173,0.24659589
+Localization of the PINCH-ILK-PARVIN complex to focal adhesions,0.0,1.0,0.0,-0.15375644,0.33822766
+Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling,6.811773e-07,6.0,6.811773e-07,-0.15330264,0.10902852
+Lysine catabolism,4.5148792e-07,8.0,4.5148792e-07,-0.15345566,0.017095456
+Lysosomal oligosaccharide catabolism,7.7689776e-07,5.0,7.7689776e-07,-0.15323888,0.15498541
+Lysosome Vesicle Biogenesis,0.0033371674,22.0,0.0033371674,2.0694532,1.0582676
+Lysosphingolipid and LPA receptors,1.1646235e-05,6.0,1.1646235e-05,-0.14599776,0.11456209
+MAP kinase activation,1.4645317e-05,46.0,1.4645317e-05,-0.14399979,-1.7202677
+MAP2K and MAPK activation,0.0043822564,24.0,0.0043822564,2.765688,1.4938605
+MAPK1 (ERK2) activation,5.80182e-07,3.0,5.80182e-07,-0.15336992,0.24670331
+MAPK3 (ERK1) activation,1.8860937e-06,3.0,1.8860937e-06,-0.15249994,0.24736236
+MAPK6/MAPK4 signaling,0.002247415,55.0,0.002247415,1.3434639,-1.0066651
+MASTL Facilitates Mitotic Progression,2.7897588e-05,8.0,2.7897588e-05,-0.13517116,0.030946286
+MET Receptor Activation,1.7284157e-05,2.0,1.7284157e-05,-0.14224179,0.30104163
+MET activates PI3K/AKT signaling,1.7017793e-06,5.0,1.7017793e-06,-0.15262273,0.15545215
+MET activates PTK2 signaling,2.843817e-05,4.0,2.843817e-05,-0.13481103,0.21485339
+MET activates PTPN11,3.398006e-06,4.0,3.398006e-06,-0.1514927,0.20221674
+MET activates RAP1 and RAC1,1.1934108e-05,10.0,1.1934108e-05,-0.14580597,-0.06892692
+MET activates RAS signaling,9.32185e-06,8.0,9.32185e-06,-0.14754626,0.021571945
+MET activates STAT3,1.8629933e-07,3.0,1.8629933e-07,-0.15363233,0.24650452
+MET interacts with TNS proteins,4.4368468e-07,2.0,4.4368468e-07,-0.15346086,0.292543
+MET receptor recycling,2.9283308e-05,6.0,2.9283308e-05,-0.134248,0.123462744
+MGMT-mediated DNA damage reversal,8.800063e-07,2.0,8.800063e-07,-0.15317018,0.2927632
+MHC class II antigen presentation,3.7971262e-05,56.0,3.7971262e-05,-0.12846012,-2.1675818
+MPS I - Hurler syndrome,0.0,1.0,0.0,-0.15375644,0.33822766
+MPS II - Hunter syndrome,0.0,1.0,0.0,-0.15375644,0.33822766
+MPS IIIA - Sanfilippo syndrome A,0.0,1.0,0.0,-0.15375644,0.33822766
+MPS IIIB - Sanfilippo syndrome B,0.0,1.0,0.0,-0.15375644,0.33822766
+MPS IIIC - Sanfilippo syndrome C,0.0,1.0,0.0,-0.15375644,0.33822766
+MPS IIID - Sanfilippo syndrome D,0.0,1.0,0.0,-0.15375644,0.33822766
+MPS IV - Morquio syndrome A,0.0,1.0,0.0,-0.15375644,0.33822766
+MPS IV - Morquio syndrome B,0.0,1.0,0.0,-0.15375644,0.33822766
+MPS IX - Natowicz syndrome,0.0,1.0,0.0,-0.15375644,0.33822766
+MPS VI - Maroteaux-Lamy syndrome,0.0,1.0,0.0,-0.15375644,0.33822766
+MPS VII - Sly syndrome,0.0,1.0,0.0,-0.15375644,0.33822766
+MTF1 activates gene expression,4.0004736e-05,3.0,4.0004736e-05,-0.12710543,0.26659912
+Macroautophagy,1.7031101e-06,42.0,1.7031101e-06,-0.15262184,-1.5431645
+Major pathway of rRNA processing in the nucleolus and cytosol,6.358981e-08,88.0,6.358981e-08,-0.15371408,-3.655787
+Meiotic recombination,7.66501e-05,20.0,7.66501e-05,-0.1026924,-0.49535343
+Meiotic synapsis,4.6202807e-08,24.0,4.6202807e-08,-0.15372567,-0.7176463
+Melanin biosynthesis,0.0,1.0,0.0,-0.15375644,0.33822766
+Metabolism of Angiotensinogen to Angiotensins,3.693358e-05,3.0,3.693358e-05,-0.12915142,0.26504925
+Metabolism of folate and pterines,6.920734e-06,10.0,6.920734e-06,-0.14914587,-0.07145696
+Metabolism of ingested H2SeO4 and H2SeO3 into H2Se,1.5676947e-07,4.0,1.5676947e-07,-0.153652,0.20058104
+Metabolism of ingested MeSeO2H into MeSeH,2.065986e-07,2.0,2.065986e-07,-0.15361881,0.29242337
+"Metabolism of ingested SeMet, Sec, MeSec into H2Se",2.812594e-05,6.0,2.812594e-05,-0.13501903,0.12287868
+Metabolism of serotonin,7.7597934e-10,2.0,7.7597934e-10,-0.15375593,0.2923195
+Metabolism of vitamin K,1.2564024e-07,3.0,1.2564024e-07,-0.15367274,0.24647392
+Metal sequestration by antimicrobial proteins,0.0,1.0,0.0,-0.15375644,0.33822766
+Metalloprotease DUBs,0.0010017923,17.0,0.0010017923,0.5136342,0.10925044
+Metallothioneins bind metals,0.0,1.0,0.0,-0.15375644,0.33822766
+Methionine salvage pathway,2.1775274e-06,6.0,2.1775274e-06,-0.15230578,0.10978366
+Methylation,1.7672199e-05,9.0,1.7672199e-05,-0.14198329,-0.020122593
+Methylation of MeSeH for excretion,0.0,1.0,0.0,-0.15375644,0.33822766
+MicroRNA (miRNA) biogenesis,2.534626e-09,16.0,2.534626e-09,-0.15375476,-0.35039976
+Mineralocorticoid biosynthesis,0.0,1.0,0.0,-0.15375644,0.33822766
+Miscellaneous substrates,0.00011782177,3.0,0.00011782177,-0.07526398,0.30586994
+Miscellaneous transport and binding events,8.3544684e-08,15.0,8.3544684e-08,-0.15370078,-0.30445027
+Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta),6.11767e-07,10.0,6.11767e-07,-0.1533489,-0.07464081
+Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha),1.247774e-06,11.0,1.247774e-06,-0.15292518,-0.12022843
+Misspliced GSK3beta mutants stabilize beta-catenin,2.3270622e-05,11.0,2.3270622e-05,-0.13825363,-0.109114476
+Misspliced LRP5 mutants have enhanced beta-catenin-dependent signaling,9.598868e-08,3.0,9.598868e-08,-0.1536925,0.24645895
+Mitochondrial ABC transporters,1.9684428e-05,4.0,1.9684428e-05,-0.14064273,0.21043578
+Mitochondrial protein import,1.3054958e-05,36.0,1.3054958e-05,-0.14505927,-1.2619843
+Mitochondrial tRNA aminoacylation,0.00053165026,15.0,0.00053165026,0.20042717,-0.03619216
+Mitochondrial transcription initiation,6.718895e-09,3.0,6.718895e-09,-0.15375197,0.24641389
+Mitochondrial transcription termination,6.77273e-07,2.0,6.77273e-07,-0.15330525,0.2926609
+Mitochondrial translation elongation,1.941031e-05,50.0,1.941031e-05,-0.14082536,-1.9014972
+Mitochondrial translation initiation,1.0744339e-05,50.0,1.0744339e-05,-0.1465986,-1.9058706
+Mitochondrial translation termination,7.8441015e-05,50.0,7.8441015e-05,-0.1014993,-1.8717071
+Mitotic Anaphase,0.0005420785,104.0,5.212293e-06,-0.15028404,-4.116793
+Mitotic Metaphase/Anaphase Transition,1.2685382e-06,2.0,1.2685382e-06,-0.15291135,0.29295927
+Molecules associated with elastic fibres,2.3262759e-05,11.0,2.3262759e-05,-0.13825887,-0.10911843
+Molybdenum cofactor biosynthesis,3.0688578e-05,4.0,3.0688578e-05,-0.13331182,0.21598908
+Mtb iron assimilation by chelation,0.0,1.0,0.0,-0.15375644,0.33822766
+Multifunctional anion exchangers,9.165616e-09,2.0,9.165616e-09,-0.15375033,0.29232374
+MyD88 deficiency (TLR2/4),5.9586826e-05,4.0,5.9586826e-05,-0.114059895,0.23057275
+MyD88 deficiency (TLR5),2.2802242e-05,2.0,2.2802242e-05,-0.13856567,0.30382636
+MyD88 dependent cascade initiated on endosome,3.168406e-05,54.0,3.168406e-05,-0.13264863,-2.0789375
+MyD88-independent TLR4 cascade ,0.0001424613,63.0,0.0001424613,-0.058849204,-2.4362102
+Myoclonic epilepsy of Lafora,2.179626e-08,7.0,2.179626e-08,-0.15374193,0.0627872
+N-glycan antennae elongation in the medial/trans-Golgi,3.4350269e-06,12.0,3.4350269e-06,-0.15146804,-0.1650332
+N-glycan trimming and elongation in the cis-Golgi,5.487573e-06,4.0,5.487573e-06,-0.15010065,0.20327125
+NADE modulates death signalling,5.506521e-07,5.0,5.506521e-07,-0.1533896,0.15487124
+NADPH regeneration,3.012754e-08,2.0,3.012754e-08,-0.15373638,0.2923343
+NCAM1 interactions,2.4385442e-06,13.0,2.4385442e-06,-0.1521319,-0.21144465
+NF-kB activation through FADD/RIP-1 pathway mediated by caspase-8 and -10,4.4825036e-05,10.0,4.4825036e-05,-0.123894155,-0.052328344
+NF-kB is activated and signals survival,0.00011552536,11.0,0.00011552536,-0.076793835,-0.0625576
+NFG and proNGF binds to p75NTR,8.60034e-10,2.0,8.60034e-10,-0.15375587,0.29231954
+NGF processing,0.00023345415,3.0,0.00023345415,0.001769923,0.36422446
+NIK-->noncanonical NF-kB signaling,4.3224303e-05,36.0,4.3224303e-05,-0.12496056,-1.2467592
+NOD1/2 Signaling Pathway,2.0731566e-06,25.0,2.0731566e-06,-0.15237531,-0.762532
+NOSIP mediated eNOS trafficking,0.0,1.0,0.0,-0.15375644,0.33822766
+NOSTRIN mediated eNOS trafficking,7.083362e-07,4.0,7.083362e-07,-0.15328455,0.2008594
+NOTCH1 Intracellular Domain Regulates Transcription,0.0001489549,31.0,0.0001489549,-0.05452319,-0.9638587
+NOTCH2 Activation and Transmission of Signal to the Nucleus,0.0023982897,16.0,0.0023982897,1.4439762,0.8599092
+NOTCH2 intracellular domain regulates transcription,8.524778e-06,8.0,8.524778e-06,-0.14807726,0.021169687
+NOTCH3 Intracellular Domain Regulates Transcription,2.3779052e-05,15.0,2.3779052e-05,-0.13791493,-0.29249218
+NOTCH4 Activation and Transmission of Signal to the Nucleus,0.0018783953,8.0,0.0018783953,1.0976242,0.9648103
+NOTCH4 Intracellular Domain Regulates Transcription,2.0285563e-05,9.0,2.0285563e-05,-0.14024228,-0.018803747
+NR1D1 (REV-ERBA) represses gene expression,2.7372278e-06,3.0,2.7372278e-06,-0.15193291,0.24779189
+NRAGE signals death through JNK,0.0002642649,32.0,0.0002642649,0.022295944,-0.95157546
+NRIF signals cell death from the nucleus,6.574061e-05,13.0,6.574061e-05,-0.10996027,-0.17949891
+NS1 Mediated Effects on Host Pathways,7.540406e-07,29.0,7.540406e-07,-0.1532541,-0.94683206
+NTF3 activates NTRK2 (TRKB) signaling,0.0,1.0,0.0,-0.15375644,0.33822766
+NTF3 activates NTRK3 signaling,0.0,1.0,0.0,-0.15375644,0.33822766
+NTF4 activates NTRK2 (TRKB) signaling,0.0,1.0,0.0,-0.15375644,0.33822766
+NTRK3 as a dependence receptor,4.9034106e-06,3.0,4.9034106e-06,-0.1504898,0.24888504
+Na+/Cl- dependent neurotransmitter transporters,3.297622e-06,4.0,3.297622e-06,-0.15155958,0.2021661
+Nectin/Necl  trans heterodimerization,2.0496516e-10,2.0,2.0496516e-10,-0.1537563,0.2923192
+Neddylation,8.599759e-05,141.0,6.09912e-07,-0.15335011,-6.045574
+Negative regulation of FGFR1 signaling,0.0061668768,18.0,0.0061668768,3.9545958,2.6699305
+Negative regulation of FGFR2 signaling,0.002378431,18.0,0.002378431,1.4307462,0.7580702
+Negative regulation of FGFR3 signaling,0.0023243064,18.0,0.0023243064,1.3946887,0.730756
+Negative regulation of FGFR4 signaling,8.092276e-05,19.0,8.092276e-05,-0.09984597,-0.44728863
+Negative regulation of MAPK pathway,0.005725494,25.0,0.005725494,3.6605482,2.1258242
+Negative regulation of MET activity,7.963057e-07,17.0,7.963057e-07,-0.15322594,-0.39590773
+Negative regulation of NOTCH4 signaling,0.0010379807,35.0,0.0010379807,0.5377428,-0.6988412
+Negative regulation of TCF-dependent signaling by DVL-interacting proteins,6.0166184e-07,4.0,6.0166184e-07,-0.15335561,0.20080554
+Negative regulation of TCF-dependent signaling by WNT ligand antagonists,1.5521914e-06,4.0,1.5521914e-06,-0.15272237,0.20128524
+Negative regulation of activity of TFAP2 (AP-2) family transcription factors,1.4636608e-08,6.0,1.4636608e-08,-0.1537467,0.10869214
+Negative regulators of DDX58/IFIH1 signaling,3.3852113e-05,28.0,3.3852113e-05,-0.13120428,-0.8842203
+Nephrin family interactions,2.641221e-05,12.0,2.641221e-05,-0.13616072,-0.15343764
+Netrin mediated repulsion signals,2.4661347e-07,4.0,2.4661347e-07,-0.15359215,0.20062637
+Neurexins and neuroligins,1.179713e-07,17.0,1.179713e-07,-0.15367785,-0.39625004
+Neurofascin interactions,8.1698704e-07,4.0,8.1698704e-07,-0.15321217,0.20091422
+Neurophilin interactions with VEGF and VEGFR,0.0,1.0,0.0,-0.15375644,0.33822766
+Neutrophil degranulation,9.0938636e-05,239.0,3.8049637e-07,-0.15350296,-10.542121
+Nicotinamide salvaging,2.6162224e-06,7.0,2.6162224e-06,-0.15201353,0.06409649
+NoRC negatively regulates rRNA expression,4.6198608e-07,40.0,4.6198608e-07,-0.15344867,-1.4519737
+Noncanonical activation of NOTCH3,2.5958538e-05,6.0,2.5958538e-05,-0.13646296,0.12178488
+Nonhomologous End-Joining (NHEJ),0.0009805087,25.0,0.0009805087,0.49945518,-0.268759
+Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC),3.3086977e-08,51.0,3.3086977e-08,-0.1537344,-1.9571847
+Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC),4.0384125e-06,36.0,4.0384125e-06,-0.15106606,-1.2665346
+Norepinephrine Neurotransmitter Release Cycle,2.4135225e-09,6.0,2.4135225e-09,-0.15375483,0.10868598
+Notch-HLH transcription pathway,2.0379552e-07,12.0,2.0379552e-07,-0.15362068,-0.16666386
+NrCAM interactions,2.3894825e-07,4.0,2.3894825e-07,-0.15359727,0.20062251
+Nuclear Envelope Breakdown,0.00054794265,33.0,0.00054794265,0.21128109,-0.8543245
+Nuclear Events (kinase and transcription factor activation),0.0012244936,19.0,0.0012244936,0.6619971,0.12982073
+Nuclear Receptor transcription pathway,2.5046688e-08,28.0,2.5046688e-08,-0.15373977,-0.9012913
+Nuclear signaling by ERBB4,0.0011727954,13.0,0.0011727954,0.6275559,0.37918246
+Nucleotide-like (purinergic) receptors,5.572849e-05,4.0,5.572849e-05,-0.11663031,0.22862563
+O-glycosylation of TSR domain-containing proteins,5.4899688e-06,3.0,5.4899688e-06,-0.15009904,0.24918106
+Olfactory Signaling Pathway,4.8378664e-05,36.0,4.8378664e-05,-0.12152675,-1.244158
+Oncogene Induced Senescence,0.003624735,23.0,0.003624735,2.2610297,1.1574816
+Opioid Signalling,0.00032147233,41.0,0.00032147233,0.060407333,-1.3358827
+Opsins,8.3466006e-08,3.0,8.3466006e-08,-0.15370083,0.24645263
+Orc1 removal from chromatin,0.0005353783,46.0,0.0005353783,0.20291077,-1.4574767
+Organic anion transport,8.3292514e-07,2.0,8.3292514e-07,-0.15320155,0.29273942
+Organic anion transporters,2.6696607e-11,2.0,2.6696607e-11,-0.15375642,0.29231912
+Organic cation transport,5.456185e-05,2.0,5.456185e-05,-0.11740752,0.31985405
+Other interleukin signaling,9.392398e-07,14.0,9.392398e-07,-0.15313073,-0.25810984
+Other semaphorin interactions,2.4939389e-05,6.0,2.4939389e-05,-0.1371419,0.12127057
+Ovarian tumor domain proteases,0.0064284476,25.0,0.0064284476,4.1288533,2.4805737
+Oxidative Stress Induced Senescence,4.204989e-05,47.0,4.204989e-05,-0.12574296,-1.7523462
+Oxygen-dependent asparagine hydroxylation of Hypoxia-inducible Factor Alpha,3.4895055e-07,3.0,3.4895055e-07,-0.15352397,0.24658662
+Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha,6.814384e-05,37.0,6.814384e-05,-0.10835925,-1.280092
+PAOs oxidise polyamines to amines,0.0,1.0,0.0,-0.15375644,0.33822766
+PCNA-Dependent Long Patch Base Excision Repair,1.8483874e-05,15.0,1.8483874e-05,-0.14144255,-0.29516444
+PD-1 signaling,4.3487676e-06,6.0,4.3487676e-06,-0.15085931,0.110879384
+PECAM1 interactions,7.757626e-09,10.0,7.757626e-09,-0.15375127,-0.07494563
+PI and PC transport between ER and Golgi membranes,3.18543e-08,3.0,3.18543e-08,-0.15373522,0.2464266
+PI3K events in ERBB2 signaling,0.00019476401,8.0,0.00019476401,-0.024005316,0.11515635
+PI3K events in ERBB4 signaling,3.9099293e-09,5.0,3.9099293e-09,-0.15375383,0.15459533
+PI3K/AKT activation,3.2915327e-06,7.0,3.2915327e-06,-0.15156364,0.064437285
+"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",0.00021904602,46.0,0.00021904602,-0.007828723,-1.6171157
+PIPs transport between Golgi and plasma membranes,0.0,1.0,0.0,-0.15375644,0.33822766
+PIPs transport between early and late endosome membranes,0.0,1.0,0.0,-0.15375644,0.33822766
+PIPs transport between early endosome and Golgi membranes,0.0,1.0,0.0,-0.15375644,0.33822766
+PIPs transport between late endosome and Golgi membranes,0.0,1.0,0.0,-0.15375644,0.33822766
+PIPs transport between plasma and early endosome membranes,0.0,1.0,0.0,-0.15375644,0.33822766
+PIWI-interacting RNA (piRNA) biogenesis,3.9538386e-10,12.0,3.9538386e-10,-0.15375619,-0.16676652
+PKA activation in glucagon signalling,2.0431855e-06,7.0,2.0431855e-06,-0.15239528,0.0638073
+PKA-mediated phosphorylation of key metabolic factors,3.4167027e-08,2.0,3.4167027e-08,-0.15373369,0.29233634
+PKMTs methylate histone lysines,0.00024611346,32.0,0.00024611346,0.010203511,-0.9607357
+PLC-gamma1 signalling,2.58542e-06,2.0,2.58542e-06,-0.15203404,0.29362386
+PLCG1 events in ERBB2 signaling,4.9229056e-06,4.0,4.9229056e-06,-0.15047681,0.2029863
+POLB-Dependent Long Patch Base Excision Repair,8.05805e-06,7.0,8.05805e-06,-0.14838819,0.066842735
+"POU5F1 (OCT4), SOX2, NANOG activate genes related to proliferation",6.856773e-07,4.0,6.856773e-07,-0.15329964,0.20084795
+"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",0.00042741693,3.0,0.00042741693,0.13098727,0.46210882
+PP2A-mediated dephosphorylation of key metabolic factors,1.23038635e-05,5.0,1.23038635e-05,-0.14555965,0.16080256
+PPARA activates gene expression,4.3674894e-11,20.0,4.3674894e-11,-0.15375641,-0.53403527
+PRC2 methylates histones and DNA,9.2837354e-07,19.0,9.2837354e-07,-0.15313797,-0.48765823
+PTEN Loss of Function in Cancer,0.0,1.0,0.0,-0.15375644,0.33822766
+PTK6 Activates STAT3,1.14861315e-07,3.0,1.14861315e-07,-0.15367992,0.24646847
+PTK6 Down-Regulation,5.105801e-11,3.0,5.105801e-11,-0.15375641,0.24641055
+PTK6 Expression,6.1931096e-06,5.0,6.1931096e-06,-0.14963062,0.15771873
+PTK6 Regulates Cell Cycle,7.874077e-08,7.0,7.874077e-08,-0.15370399,0.062815934
+PTK6 Regulates Proteins Involved in RNA Processing,9.568978e-06,4.0,9.568978e-06,-0.14738162,0.20533097
+"PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases",0.0004483594,11.0,0.0004483594,0.14493908,0.105408944
+PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1,7.5486328e-06,9.0,7.5486328e-06,-0.14872757,-0.025231514
+PTK6 promotes HIF1A stabilization,4.459879e-11,4.0,4.459879e-11,-0.15375641,0.20050196
+Packaging Of Telomere Ends,0.0011566086,12.0,0.0011566086,0.6167723,0.41692224
+Paradoxical activation of RAF signaling by kinase inactive BRAF,8.188015e-07,23.0,8.188015e-07,-0.15321095,-0.67134786
+Passive transport by Aquaporins,4.387593e-05,3.0,4.387593e-05,-0.12452645,0.26855275
+Peptide chain elongation,0.00018362176,32.0,0.00018362176,-0.031428248,-0.9922725
+Peptide ligand-binding receptors,5.7380872e-05,31.0,5.7380872e-05,-0.11552949,-1.0100721
+Phase 0 - rapid depolarisation,2.7075197e-05,10.0,2.7075197e-05,-0.13571905,-0.061285898
+Phase 1 - inactivation of fast Na+ channels,4.0508173e-08,5.0,4.0508173e-08,-0.15372945,0.1546138
+Phase 2 - plateau phase,0.0044622794,11.0,0.0044622794,2.8189988,2.131056
+Phase 3 - rapid repolarisation,3.6337575e-08,4.0,3.6337575e-08,-0.15373224,0.20052026
+Phase 4 - resting membrane potential,3.0506226e-06,5.0,3.0506226e-06,-0.15172413,0.15613285
+Phenylalanine and tyrosine catabolism,5.464462e-07,5.0,5.464462e-07,-0.1533924,0.15486911
+Phenylketonuria,0.0,1.0,0.0,-0.15375644,0.33822766
+Phosphate bond hydrolysis by NTPDase proteins,6.499959e-07,5.0,6.499959e-07,-0.15332343,0.15492137
+Phosphate bond hydrolysis by NUDT proteins,8.4727503e-07,6.0,8.4727503e-07,-0.153192,0.10911233
+Phosphorylation of CD3 and TCR zeta chains,2.4899887e-07,6.0,2.4899887e-07,-0.15359056,0.10881042
+Physiological factors,3.5674245e-06,2.0,3.5674245e-06,-0.15137984,0.29411942
+Pink/Parkin Mediated Mitophagy,0.00061317487,16.0,0.00061317487,0.25473857,-0.040958904
+Plasmalogen biosynthesis,6.334117e-08,3.0,6.334117e-08,-0.15371424,0.24644248
+Platelet Adhesion to exposed collagen,0.00011850317,7.0,0.00011850317,-0.07481003,0.12257948
+Platelet degranulation ,6.4207365e-05,54.0,6.4207365e-05,-0.11098172,-2.0625243
+Platelet sensitization by LDL,3.6511944e-06,10.0,3.6511944e-06,-0.15132403,-0.073106945
+Polo-like kinase mediated events,9.967914e-08,7.0,9.967914e-08,-0.15369004,0.0628265
+Polymerase switching,9.453717e-06,11.0,9.453717e-06,-0.14745842,-0.11608725
+Post NMDA receptor activation events,7.1275285e-06,17.0,7.1275285e-06,-0.14900811,-0.39271265
+Post-chaperonin tubulin folding pathway,1.7824935e-07,7.0,1.7824935e-07,-0.15363769,0.062866144
+Post-transcriptional silencing by small RNAs,1.2403179e-07,7.0,1.2403179e-07,-0.15367381,0.06283879
+Post-translational protein phosphorylation,1.6903896e-05,36.0,1.6903896e-05,-0.14249513,-1.260042
+Potassium transport channels,7.380244e-07,3.0,7.380244e-07,-0.15326478,0.24678296
+Pre-NOTCH Processing in Golgi,0.00077873305,7.0,0.00077873305,0.36503288,0.4557682
+Pre-NOTCH Processing in the Endoplasmic Reticulum,6.428137e-09,6.0,6.428137e-09,-0.15375216,0.108688
+Pre-NOTCH Transcription and Translation,0.00044026837,34.0,0.00044026837,0.13954885,-0.9545716
+Prefoldin mediated transfer of substrate  to CCT/TriC,0.0001407121,14.0,0.0001407121,-0.060014516,-0.18757272
+Pregnenolone biosynthesis,1.8153999e-06,6.0,1.8153999e-06,-0.15254703,0.1096009
+Presynaptic depolarization and calcium channel opening,1.9076157e-07,7.0,1.9076157e-07,-0.15362936,0.06287246
+Presynaptic function of Kainate receptors,8.455637e-06,12.0,8.455637e-06,-0.14812332,-0.16249952
+Processing of DNA double-strand break ends,4.4544682e-05,44.0,4.4544682e-05,-0.124080926,-1.6133616
+Processing of Intronless Pre-mRNAs,1.1039613e-05,14.0,1.1039613e-05,-0.1464019,-0.25301266
+Processing of SMDT1,0.0003207332,9.0,0.0003207332,0.059914935,0.13281882
+Processive synthesis on the lagging strand,8.673391e-05,11.0,8.673391e-05,-0.0959746,-0.077087365
+Prolactin receptor signaling,3.010638e-08,9.0,3.010638e-08,-0.15373638,-0.029025778
+Proline catabolism,0.0,1.0,0.0,-0.15375644,0.33822766
+Propionyl-CoA catabolism,5.3288613e-07,5.0,5.3288613e-07,-0.15340143,0.15486227
+Prostacyclin signalling through prostacyclin receptor,8.942126e-06,11.0,8.942126e-06,-0.14779922,-0.11634543
+Protein methylation,0.0011661071,8.0,0.0011661071,0.62310016,0.6053501
+Protein repair,4.8954913e-05,4.0,4.8954913e-05,-0.12114284,0.22520731
+Proton-coupled monocarboxylate transport,2.5022934e-10,2.0,2.5022934e-10,-0.15375628,0.29231924
+Proton-coupled neutral amino acid transporters,0.0,1.0,0.0,-0.15375644,0.33822766
+Proton/oligopeptide cotransporters,2.0768518e-08,2.0,2.0768518e-08,-0.15374261,0.29232958
+Purine ribonucleoside monophosphate biosynthesis,4.322463e-08,10.0,4.322463e-08,-0.15372765,-0.07492773
+Purine salvage,0.00023183505,8.0,0.00023183505,0.0006912812,0.13386446
+Pyrimidine biosynthesis,2.3631367e-06,2.0,2.3631367e-06,-0.15218213,0.2935117
+Pyrimidine catabolism,2.0046033e-07,3.0,2.0046033e-07,-0.1536229,0.24651168
+Pyrimidine salvage,6.2134163e-06,6.0,6.2134163e-06,-0.14961708,0.11182039
+Pyrophosphate hydrolysis,2.1467017e-06,2.0,2.1467017e-06,-0.15232632,0.29340246
+RA biosynthesis pathway,4.1375803e-05,10.0,4.1375803e-05,-0.12619202,-0.05406902
+RAB GEFs exchange GTP for GDP on RABs,7.154317e-05,63.0,7.154317e-05,-0.10609463,-2.4719996
+RAB geranylgeranylation,0.00081148127,42.0,0.00081148127,0.38684964,-1.1345055
+RAF activation,0.00019309146,18.0,0.00019309146,-0.025119565,-0.34477347
+RAS signaling downstream of NF1 loss-of-function variants,2.2992203e-06,5.0,2.2992203e-06,-0.15222472,0.15575366
+RET signaling,1.7578849e-08,20.0,1.7578849e-08,-0.15374473,-0.53402644
+RHO GTPases Activate Formins,0.00029510353,66.0,0.00029510353,0.04284053,-2.4969044
+RHO GTPases Activate NADPH Oxidases,2.9181393e-09,5.0,2.9181393e-09,-0.15375449,0.15459482
+RHO GTPases Activate ROCKs,0.00018394929,11.0,0.00018394929,-0.031210046,-0.028027093
+RHO GTPases Activate Rhotekin and Rhophilins,2.1356049e-05,6.0,2.1356049e-05,-0.13952912,0.11946221
+RHO GTPases Activate WASPs and WAVEs,0.0007118688,29.0,0.0007118688,0.32048815,-0.58796406
+RHO GTPases activate CIT,0.00052486814,9.0,0.00052486814,0.19590893,0.23583668
+RHO GTPases activate IQGAPs,2.401657e-06,11.0,2.401657e-06,-0.15215646,-0.11964611
+RHO GTPases activate KTN1,5.5833366e-06,10.0,5.5833366e-06,-0.15003684,-0.07213188
+RHO GTPases activate PAKs,1.3867186e-05,13.0,1.3867186e-05,-0.14451817,-0.20567712
+RHO GTPases regulate CFTR trafficking,1.6793509e-08,2.0,1.6793509e-08,-0.15374525,0.29232758
+RIP-mediated NFkB activation via ZBP1,1.0668087e-08,10.0,1.0668087e-08,-0.15374933,-0.07494416
+RMTs methylate histone arginines,2.2320807e-08,27.0,2.2320807e-08,-0.15374157,-0.8553842
+RNA Pol II CTD phosphorylation and interaction with CE,4.7705253e-08,21.0,4.7705253e-08,-0.15372467,-0.5799198
+RNA Polymerase I Chain Elongation,7.394283e-06,19.0,7.394283e-06,-0.1488304,-0.48439515
+RNA Polymerase I Promoter Escape,1.2392706e-05,19.0,1.2392706e-05,-0.14550047,-0.4818727
+RNA Polymerase I Promoter Opening,2.980037e-11,3.0,2.980037e-11,-0.15375642,0.24641052
+RNA Polymerase I Transcription Initiation,2.8780864e-09,21.0,2.8780864e-09,-0.15375452,-0.57994246
+RNA Polymerase I Transcription Termination,2.2992235e-06,20.0,2.2992235e-06,-0.15222472,-0.532875
+RNA Polymerase II Pre-transcription Events,2.5620816e-08,59.0,2.5620816e-08,-0.15373938,-2.324457
+RNA Polymerase II Promoter Escape,1.4404004e-09,35.0,1.4404004e-09,-0.15375549,-1.2226633
+RNA Polymerase II Transcription Initiation,3.1356532e-07,35.0,3.1356532e-07,-0.15354754,-1.2225058
+RNA Polymerase II Transcription Pre-Initiation And Promoter Opening,7.797781e-06,35.0,7.797781e-06,-0.1485616,-1.2187288
+RNA Polymerase III Abortive And Retractive Initiation,4.257852e-05,26.0,4.257852e-05,-0.12539077,-0.78799933
+RNA Polymerase III Chain Elongation,1.1250745e-05,14.0,1.1250745e-05,-0.14626125,-0.2529061
+RNA Polymerase III Transcription Initiation From Type 1 Promoter,3.8711383e-07,21.0,3.8711383e-07,-0.15349855,-0.5797486
+RNA Polymerase III Transcription Initiation From Type 2 Promoter,1.6685102e-07,21.0,1.6685102e-07,-0.15364529,-0.5798597
+RNA Polymerase III Transcription Initiation From Type 3 Promoter,8.0978856e-07,20.0,8.0978856e-07,-0.15321697,-0.5336267
+RNA Polymerase III Transcription Termination,7.40412e-06,14.0,7.40412e-06,-0.14882384,-0.25484732
+RNA polymerase II transcribes snRNA genes,6.6759713e-07,47.0,6.6759713e-07,-0.15331168,-1.77323
+RNF mutants show enhanced WNT signaling and proliferation,2.0125703e-06,2.0,2.0125703e-06,-0.15241568,0.29333475
+ROBO receptors bind AKAP5,8.629868e-10,4.0,8.629868e-10,-0.15375587,0.20050237
+RORA activates gene expression,2.3642344e-05,4.0,2.3642344e-05,-0.13800599,0.21243316
+"ROS, RNS production in phagocytes",8.424654e-06,14.0,8.424654e-06,-0.14814396,-0.2543323
+RPIA deficiency: failed conversion of R5P to RU5P,0.0,1.0,0.0,-0.15375644,0.33822766
+RPIA deficiency: failed conversion of RU5P to R5P,0.0,1.0,0.0,-0.15375644,0.33822766
+RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs),1.0637562e-07,3.0,1.0637562e-07,-0.15368557,0.2464642
+RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known,2.4672095e-06,25.0,2.4672095e-06,-0.1521128,-0.76233315
+RUNX1 regulates estrogen receptor mediated transcription,2.6198746e-08,7.0,2.6198746e-08,-0.15373899,0.06278942
+RUNX1 regulates expression of components of tight junctions,2.6744827e-08,4.0,2.6744827e-08,-0.15373862,0.20051543
+RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function,1.1870228e-05,33.0,1.1870228e-05,-0.14584854,-1.1248565
+RUNX1 regulates transcription of genes involved in BCR signaling,4.1370427e-09,5.0,4.1370427e-09,-0.15375368,0.15459543
+RUNX1 regulates transcription of genes involved in WNT signaling,1.9021138e-08,5.0,1.9021138e-08,-0.15374377,0.15460294
+RUNX1 regulates transcription of genes involved in differentiation of HSCs,2.222391e-06,50.0,2.222391e-06,-0.15227589,-1.9101712
+RUNX1 regulates transcription of genes involved in differentiation of keratinocytes,8.127467e-08,6.0,8.127467e-08,-0.1537023,0.108725764
+RUNX1 regulates transcription of genes involved in differentiation of myeloid cells,4.283153e-08,6.0,4.283153e-08,-0.15372792,0.10870636
+RUNX1 regulates transcription of genes involved in interleukin signaling,2.198504e-08,4.0,2.198504e-08,-0.15374179,0.20051302
+RUNX2 regulates bone development,4.7323675e-07,16.0,4.7323675e-07,-0.15344118,-0.3501622
+RUNX2 regulates genes involved in cell migration,3.1056064e-07,6.0,3.1056064e-07,-0.15354954,0.108841494
+RUNX2 regulates genes involved in differentiation of myeloid cells,1.3458158e-07,4.0,1.3458158e-07,-0.1536668,0.20056982
+RUNX3 Regulates Immune Response and Cell Migration,1.8268407e-08,3.0,1.8268407e-08,-0.15374428,0.24641971
+RUNX3 regulates BCL2L11 (BIM) transcription,1.5173902e-09,4.0,1.5173902e-09,-0.15375544,0.2005027
+RUNX3 regulates CDKN1A transcription,1.2332545e-07,6.0,1.2332545e-07,-0.15367429,0.108747
+RUNX3 regulates NOTCH signaling,8.779565e-08,11.0,8.779565e-08,-0.15369795,-0.12081381
+RUNX3 regulates RUNX1-mediated transcription,2.7728564e-08,3.0,2.7728564e-08,-0.15373798,0.2464245
+RUNX3 regulates WNT signaling,1.1821562e-07,7.0,1.1821562e-07,-0.15367769,0.06283586
+RUNX3 regulates YAP1-mediated transcription,4.2536408e-10,2.0,4.2536408e-10,-0.15375616,0.29231933
+RUNX3 regulates p14-ARF,1.5131238e-09,5.0,1.5131238e-09,-0.15375544,0.15459411
+Rap1 signalling,0.0002398558,8.0,0.0002398558,0.00603468,0.13791218
+Receptor Mediated Mitophagy,7.2394334e-07,10.0,7.2394334e-07,-0.15327415,-0.0745842
+Receptor-type tyrosine-protein phosphatases,3.339911e-05,7.0,3.339911e-05,-0.13150607,0.07963123
+Recognition and association of DNA glycosylase with site containing an affected purine,4.9347476e-10,2.0,4.9347476e-10,-0.15375611,0.29231936
+Recognition and association of DNA glycosylase with site containing an affected pyrimidine,4.9712144e-05,8.0,4.9712144e-05,-0.120638385,0.04195513
+Recognition of DNA damage by PCNA-containing replication complex,1.814609e-05,22.0,1.814609e-05,-0.14166757,-0.6166949
+Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks,0.0003918671,30.0,0.0003918671,0.107304096,-0.7953631
+Recruitment of NuMA to mitotic centrosomes,8.383801e-05,55.0,8.383801e-05,-0.09790385,-2.0985262
+Recycling of bile acids and salts,2.4605783e-06,5.0,2.4605783e-06,-0.15211721,0.15583509
+Recycling of eIF2:GDP,0.0001911519,8.0,0.0001911519,-0.026411688,0.113333486
+Recycling pathway of L1,1.2104374e-06,18.0,1.2104374e-06,-0.15295005,-0.4416073
+Reduction of cytosolic Ca++ levels,7.33694e-06,4.0,7.33694e-06,-0.14886859,0.20420454
+Reelin signalling pathway,3.9716383e-07,3.0,3.9716383e-07,-0.15349185,0.24661092
+Regulated proteolysis of p75NTR,2.6762855e-06,10.0,2.6762855e-06,-0.15197352,-0.073598936
+Regulation by TREX1,0.0,1.0,0.0,-0.15375644,0.33822766
+Regulation by c-FLIP,5.200181e-05,9.0,5.200181e-05,-0.11911301,-0.0027979675
+Regulation of Complement cascade,0.00035999846,7.0,0.00035999846,0.08607332,0.24445143
+Regulation of FZD by ubiquitination,2.0238071e-09,8.0,2.0238071e-09,-0.1537551,0.01686864
+Regulation of Glucokinase by Glucokinase Regulatory Protein,1.0708825e-06,23.0,1.0708825e-06,-0.15304303,-0.6712206
+Regulation of HSF1-mediated heat shock response,9.2014314e-05,45.0,9.2014314e-05,-0.09245681,-1.6353142
+Regulation of IFNA signaling,2.5992313e-05,10.0,2.5992313e-05,-0.13644046,-0.061832383
+Regulation of IFNG signaling,1.8120581e-05,11.0,1.8120581e-05,-0.14168458,-0.11171346
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),3.1490163e-07,36.0,3.1490163e-07,-0.15354666,-1.2684137
+Regulation of KIT signaling,0.00016400768,12.0,0.00016400768,-0.04449508,-0.08399931
+Regulation of PAK-2p34 activity by PS-GAP/RHG10,4.4111528e-09,3.0,4.4111528e-09,-0.1537535,0.24641275
+Regulation of PLK1 Activity at G2/M Transition,0.00024968752,59.0,0.00024968752,0.012584542,-2.1984637
+Regulation of PTEN gene transcription,2.3641355e-06,36.0,2.3641355e-06,-0.15218146,-1.2673795
+Regulation of PTEN localization,1.3166603e-07,8.0,1.3166603e-07,-0.15366873,0.016934058
+Regulation of PTEN mRNA translation,6.7739944e-07,10.0,6.7739944e-07,-0.15330516,-0.074607685
+Regulation of PTEN stability and activity,6.979866e-08,44.0,6.979866e-08,-0.15370993,-1.635806
+Regulation of RAS by GAPs,0.00065210223,42.0,0.00065210223,0.28067186,-1.214937
+Regulation of RUNX1 Expression and Activity,2.6365415e-06,17.0,2.6365415e-06,-0.15199998,-0.39497903
+Regulation of RUNX2 expression and activity,1.2478494e-06,42.0,1.2478494e-06,-0.15292512,-1.5433943
+Regulation of RUNX3 expression and activity,8.582934e-09,32.0,8.582934e-09,-0.15375072,-1.0849339
+Regulation of TLR by endogenous ligand,3.9256985e-08,5.0,3.9256985e-08,-0.15373029,0.15461315
+Regulation of TNFR1 signaling,2.3575594e-05,22.0,2.3575594e-05,-0.13805047,-0.6139549
+Regulation of TP53 Activity,3.2782452e-08,110.0,2.980223e-10,-0.15375625,-4.665791
+Regulation of actin dynamics for phagocytic cup formation,0.00029757243,42.0,0.00029757243,0.04448531,-1.3938525
+Regulation of activated PAK-2p34 by proteasome mediated degradation,5.9460604e-07,31.0,5.9460604e-07,-0.15336032,-1.0387297
+Regulation of commissural axon pathfinding by SLIT and ROBO,1.4295698e-07,2.0,1.4295698e-07,-0.1536612,0.29239124
+Regulation of cortical dendrite branching,0.0,1.0,0.0,-0.15375644,0.33822766
+Regulation of cytoskeletal remodeling and cell spreading by IPP complex components,3.8892044e-06,6.0,3.8892044e-06,-0.15116547,0.11064746
+Regulation of expression of SLITs and ROBOs,7.3198535e-05,76.0,7.3198535e-05,-0.10499182,-3.067976
+Regulation of gene expression by Hypoxia-inducible Factor,6.6047774e-06,7.0,6.6047774e-06,-0.14935637,0.06610934
+Regulation of gene expression in early pancreatic precursor cells,0.0,1.0,0.0,-0.15375644,0.33822766
+Regulation of gene expression in endocrine-committed (NEUROG3+) progenitor cells,0.0,1.0,0.0,-0.15375644,0.33822766
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,7.812001e-06,2.0,7.812001e-06,-0.1485521,0.29626146
+Regulation of ornithine decarboxylase (ODC),5.4762895e-06,31.0,5.4762895e-06,-0.15010816,-1.0362661
+Regulation of pyruvate dehydrogenase (PDH) complex,0.0007025193,9.0,0.0007025193,0.31425956,0.32548934
+Regulation of signaling by CBL,1.6250441e-06,17.0,1.6250441e-06,-0.15267384,-0.39548948
+Regulation of signaling by NODAL,3.5961188e-12,3.0,3.5961188e-12,-0.15375644,0.24641052
+Regulation of thyroid hormone activity,2.7331182e-10,2.0,2.7331182e-10,-0.15375626,0.29231924
+Release of Hh-Np from the secreting cell,4.883819e-05,3.0,4.883819e-05,-0.1212206,0.27105698
+Release of apoptotic factors from the mitochondria,1.4252359e-07,3.0,1.4252359e-07,-0.15366149,0.24648245
+Removal of aminoterminal propeptides from gamma-carboxylated proteins,5.80764e-08,2.0,5.80764e-08,-0.15371776,0.2923484
+Repression of WNT target genes,0.0007726663,8.0,0.0007726663,0.36099124,0.40679795
+Resolution of Sister Chromatid Cohesion,0.00010190305,57.0,0.00010190305,-0.08586898,-2.1812267
+Retinoid metabolism and transport,3.4690977e-08,13.0,3.4690977e-08,-0.15373333,-0.21265775
+Retinoid metabolism disease events,0.0,1.0,0.0,-0.15375644,0.33822766
+Retrograde neurotrophin signalling,0.0001743589,9.0,0.0001743589,-0.037599135,0.05895022
+Retrograde transport at the Trans-Golgi-Network,0.00034851214,40.0,0.00034851214,0.07842117,-1.2763282
+Reuptake of GABA,0.0,1.0,0.0,-0.15375644,0.33822766
+Reversible hydration of carbon dioxide,0.00030486032,4.0,0.00030486032,0.049340475,0.3543514
+Rhesus glycoproteins mediate ammonium transport.,3.3538474e-06,2.0,3.3538474e-06,-0.15152211,0.29401165
+Rho GTPase cycle,1.6280088e-05,67.0,1.6280088e-05,-0.1429107,-2.6835227
+Ribosomal scanning and start codon recognition,0.0010768678,31.0,0.0010768678,0.56364924,-0.49558237
+Role of ABL in ROBO-SLIT signaling,9.7749056e-05,5.0,9.7749056e-05,-0.08863635,0.20392296
+Role of LAT2/NTAL/LAB on calcium mobilization,4.133695e-05,11.0,4.133695e-05,-0.1262179,-0.09999721
+Role of phospholipids in phagocytosis,2.368524e-05,14.0,2.368524e-05,-0.13797742,-0.24663095
+Role of second messengers in netrin-1 signaling,1.4295792e-08,4.0,1.4295792e-08,-0.15374692,0.20050915
+S33 mutants of beta-catenin aren't phosphorylated,7.579897e-07,11.0,7.579897e-07,-0.15325147,-0.1204756
+S37 mutants of beta-catenin aren't phosphorylated,3.6230836e-07,11.0,3.6230836e-07,-0.15351507,-0.12067527
+S45 mutants of beta-catenin aren't phosphorylated,1.7794673e-06,11.0,1.7794673e-06,-0.15257096,-0.11996011
+SCF(Skp2)-mediated degradation of p27/p21,1.9311465e-05,38.0,1.9311465e-05,-0.14089121,-1.350644
+SDK interactions,0.0,1.0,0.0,-0.15375644,0.33822766
+SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion,2.5052924e-07,7.0,2.5052924e-07,-0.15358955,0.06290263
+SHC-related events triggered by IGF1R,7.157467e-06,5.0,7.157467e-06,-0.14898817,0.15820539
+SHC1 events in EGFR signaling,4.073495e-05,6.0,4.073495e-05,-0.12661897,0.12924188
+SHC1 events in ERBB2 signaling,0.000697336,12.0,0.000697336,0.31080642,0.18514778
+SHC1 events in ERBB4 signaling,4.910373e-05,7.0,4.910373e-05,-0.1210437,0.08755667
+SIRT1 negatively regulates rRNA expression,7.1102235e-08,13.0,7.1102235e-08,-0.15370907,-0.21263939
+SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs,3.360882e-05,7.0,3.360882e-05,-0.13136637,0.07973708
+SLBP independent Processing of Histone Pre-mRNAs,1.9403021e-06,7.0,1.9403021e-06,-0.15246381,0.06375538
+SLIT2:ROBO1 increases RHOA activity,4.498037e-07,2.0,4.498037e-07,-0.15345679,0.2925461
+SMAC-mediated apoptotic response,2.0558232e-07,6.0,2.0558232e-07,-0.15361948,0.10878851
+SMAD2/3 MH2 Domain Mutants in Cancer,1.9245776e-05,6.0,1.9245776e-05,-0.14093497,0.11839725
+SMAD2/3 Phosphorylation Motif Mutants in Cancer,9.8555665e-06,5.0,9.8555665e-06,-0.1471907,0.159567
+SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription,0.0008081607,22.0,0.0008081607,0.38463748,-0.21800967
+SMAD4 MH2 Domain Mutants in Cancer,2.0866813e-09,4.0,2.0866813e-09,-0.15375505,0.20050296
+SRP-dependent cotranslational protein targeting to membrane,0.00052586163,49.0,0.00052586163,0.1965708,-1.600005
+STAT6-mediated induction of chemokines,2.9790966e-08,3.0,2.9790966e-08,-0.15373659,0.24642554
+SUMO is conjugated to E1 (UBA2:SAE1),0.00011814404,4.0,0.00011814404,-0.07504928,0.26012397
+SUMO is proteolytically processed,1.4857296e-05,6.0,1.4857296e-05,-0.14385855,0.11618258
+"SUMO is transferred from E1 to E2 (UBE2I, UBC9)",6.1026152e-05,5.0,6.1026152e-05,-0.11310103,0.18539053
+SUMOylation of DNA damage response and repair proteins,0.00017969299,51.0,0.00017969299,-0.03404558,-1.8665183
+SUMOylation of DNA methylation proteins,0.0006161219,9.0,0.0006161219,0.2567019,0.2818884
+SUMOylation of DNA replication proteins,0.00043826777,32.0,0.00043826777,0.13821606,-0.863764
+SUMOylation of RNA binding proteins,0.00092185213,33.0,0.00092185213,0.46037832,-0.66562897
+SUMOylation of SUMOylation proteins,0.00019181722,28.0,0.00019181722,-0.025968459,-0.8045023
+SUMOylation of chromatin organization proteins,0.0009878656,38.0,0.0009878656,0.50435627,-0.8618578
+SUMOylation of immune response proteins,0.00014057789,11.0,0.00014057789,-0.060103927,-0.04991471
+SUMOylation of intracellular receptors,5.452834e-05,21.0,5.452834e-05,-0.117429845,-0.55242586
+SUMOylation of transcription cofactors,0.0009899174,32.0,0.0009899174,0.5057232,-0.5853709
+SUMOylation of transcription factors,0.00011923748,16.0,0.00011923748,-0.07432084,-0.29022714
+SUMOylation of ubiquitinylation proteins,9.480158e-06,31.0,9.480158e-06,-0.14744079,-1.0342455
+Scavenging by Class A Receptors,1.4380355e-07,7.0,1.4380355e-07,-0.15366064,0.06284877
+Scavenging by Class B Receptors,4.3444797e-05,3.0,4.3444797e-05,-0.12481366,0.26833516
+Scavenging by Class F Receptors,7.199114e-07,5.0,7.199114e-07,-0.15327685,0.15495665
+Scavenging by Class H Receptors,6.0866252e-05,2.0,6.0866252e-05,-0.11320755,0.3230356
+Scavenging of heme from plasma,0.0021931513,6.0,0.0021931513,1.3073136,1.2154707
+SeMet incorporation into proteins,9.570621e-06,8.0,9.570621e-06,-0.14738053,0.021697478
+Selenocysteine synthesis,1.2815098e-05,35.0,1.2815098e-05,-0.14521907,-1.2161967
+Sema3A PAK dependent Axon repulsion,5.111254e-07,9.0,5.111254e-07,-0.15341593,-0.028783029
+Sema4D induced cell migration and growth-cone collapse,2.7177866e-06,11.0,2.7177866e-06,-0.15194586,-0.11948658
+Sema4D mediated inhibition of cell attachment and migration,2.2584522e-06,5.0,2.2584522e-06,-0.15225187,0.1557331
+Senescence-Associated Secretory Phenotype (SASP),0.0010858418,35.0,0.0010858418,0.5696277,-0.67468786
+Sensing of DNA Double Strand Breaks,5.3285115e-05,4.0,5.3285115e-05,-0.11825808,0.22739255
+Serine biosynthesis,6.434318e-05,6.0,6.434318e-05,-0.11089123,0.1411559
+Serotonin Neurotransmitter Release Cycle,1.3933933e-07,6.0,1.3933933e-07,-0.15366362,0.10875507
+Serotonin and melatonin biosynthesis,0.0,1.0,0.0,-0.15375644,0.33822766
+Severe congenital neutropenia type 4 (G6PC3),0.0,1.0,0.0,-0.15375644,0.33822766
+Signal attenuation,9.894992e-06,6.0,9.894992e-06,-0.14716443,0.11367832
+Signal regulatory protein family interactions,0.00045023914,8.0,0.00045023914,0.14619134,0.2440833
+Signal transduction by L1,4.29821e-06,13.0,4.29821e-06,-0.15089299,-0.21050616
+Signaling by BMP,1.9437987e-06,13.0,1.9437987e-06,-0.15246148,-0.21169432
+Signaling by BRAF and RAF fusions,6.3297225e-06,36.0,6.3297225e-06,-0.1495396,-1.2653782
+Signaling by FGFR3 fusions in cancer,2.8188188e-05,9.0,2.8188188e-05,-0.13497756,-0.014815644
+Signaling by FGFR3 point mutants in cancer,3.494613e-05,11.0,3.494613e-05,-0.13047545,-0.10322236
+Signaling by Hippo,1.0629924e-07,10.0,1.0629924e-07,-0.15368563,-0.0748959
+Signaling by Leptin,4.888782e-06,10.0,4.888782e-06,-0.15049955,-0.072482385
+Signaling by MST1,0.0,1.0,0.0,-0.15375644,0.33822766
+Signaling by RAS mutants,6.850461e-07,29.0,6.850461e-07,-0.15330006,-0.9468668
+Signaling by high-kinase activity BRAF mutants,3.4892477e-05,17.0,3.4892477e-05,-0.1305112,-0.3787009
+Signaling by moderate kinase activity BRAF mutants,9.366131e-08,23.0,9.366131e-08,-0.15369405,-0.67171377
+Signalling to ERK5,7.56529e-07,3.0,7.56529e-07,-0.15325245,0.24679232
+Signalling to ERKs,0.0013990523,20.0,0.0013990523,0.77828753,0.17200416
+Signalling to STAT3,0.00046415784,2.0,0.00046415784,0.15546395,0.52655894
+Small interfering RNA (siRNA) biogenesis,2.6151227e-07,6.0,2.6151227e-07,-0.15358223,0.10881673
+Smooth Muscle Contraction,0.009341417,17.0,0.009341417,6.0694637,4.3178883
+"Sodium-coupled sulphate, di- and tri-carboxylate transporters",1.4693815e-07,3.0,1.4693815e-07,-0.15365855,0.24648467
+Sodium/Calcium exchangers,1.6881492e-06,5.0,1.6881492e-06,-0.1526318,0.15544528
+Sodium/Proton exchangers,0.02112188,9.0,0.02112188,13.917569,10.630234
+Sperm Motility And Taxes,3.1793923e-09,2.0,3.1793923e-09,-0.15375432,0.2923207
+Sperm:Oocyte Membrane Binding,3.4387092e-08,2.0,3.4387092e-08,-0.15373354,0.29233646
+Sphingolipid de novo biosynthesis,3.0794323e-05,20.0,3.0794323e-05,-0.13324137,-0.5184948
+Stimulation of the cell death response by PAK-2p34,3.7170633e-08,3.0,3.7170633e-08,-0.15373169,0.24642928
+Striated Muscle Contraction,3.138072e-07,18.0,3.138072e-07,-0.15354738,-0.44205981
+Sulfide oxidation to sulfate,3.5691983e-07,2.0,3.5691983e-07,-0.15351866,0.2924992
+Surfactant metabolism,6.9245193e-06,9.0,6.9245193e-06,-0.14914335,-0.025546474
+Synaptic adhesion-like molecules,1.4010632e-05,12.0,1.4010632e-05,-0.1444226,-0.15969616
+Syndecan interactions,0.0010024844,9.0,0.0010024844,0.51409525,0.47686836
+Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE),4.9231208e-08,2.0,4.9231208e-08,-0.15372364,0.29234394
+Synthesis of 12-eicosatetraenoic acid derivatives,9.342353e-08,3.0,9.342353e-08,-0.1536942,0.24645765
+Synthesis of 15-eicosatetraenoic acid derivatives,2.0343395e-10,2.0,2.0343395e-10,-0.1537563,0.2923192
+Synthesis of 5-eicosatetraenoic acids,2.3800132e-08,4.0,2.3800132e-08,-0.15374058,0.20051393
+Synthesis of BMP,0.0,1.0,0.0,-0.15375644,0.33822766
+Synthesis of CL,2.410813e-07,2.0,2.410813e-07,-0.15359583,0.29244074
+Synthesis of Hepoxilins (HX) and Trioxilins (TrX),1.4180776e-07,2.0,1.4180776e-07,-0.15366197,0.29239067
+"Synthesis of IP2, IP, and Ins in the cytosol",0.0003650771,9.0,0.0003650771,0.08945669,0.15519722
+Synthesis of IP3 and IP4 in the cytosol,0.00039280692,15.0,0.00039280692,0.1079302,-0.10626024
+Synthesis of IPs in the ER lumen,0.0,1.0,0.0,-0.15375644,0.33822766
+Synthesis of IPs in the nucleus,2.2426325e-09,3.0,2.2426325e-09,-0.15375495,0.24641164
+Synthesis of Ketone Bodies,8.486668e-08,4.0,8.486668e-08,-0.1536999,0.20054474
+Synthesis of Leukotrienes (LT) and Eoxins (EX),1.220599e-07,5.0,1.220599e-07,-0.15367512,0.15465494
+Synthesis of Lipoxins (LX),6.8452277e-10,3.0,6.8452277e-10,-0.153756,0.24641085
+Synthesis of PA,8.560599e-07,15.0,8.560599e-07,-0.15318614,-0.30406043
+Synthesis of PC,3.5977655e-06,16.0,3.5977655e-06,-0.15135962,-0.34858537
+Synthesis of PE,5.9143485e-06,9.0,5.9143485e-06,-0.14981632,-0.026056264
+Synthesis of PG,8.412415e-07,7.0,8.412415e-07,-0.153196,0.063200735
+Synthesis of PI,2.0151457e-07,3.0,2.0151457e-07,-0.1536222,0.2465122
+Synthesis of PIPs at the ER membrane,2.2455023e-07,6.0,2.2455023e-07,-0.15360685,0.10879808
+Synthesis of PIPs at the Golgi membrane,9.323057e-08,12.0,9.323057e-08,-0.15369433,-0.16671966
+Synthesis of PIPs at the early endosome membrane,2.4913804e-06,14.0,2.4913804e-06,-0.1520967,-0.25732654
+Synthesis of PIPs at the late endosome membrane,1.4143095e-07,9.0,1.4143095e-07,-0.15366222,-0.028969599
+Synthesis of PIPs at the plasma membrane,1.2864901e-06,39.0,1.2864901e-06,-0.15289938,-1.4056491
+Synthesis of PIPs in the nucleus,2.2845741e-08,4.0,2.2845741e-08,-0.15374123,0.20051345
+Synthesis of PS,0.0,1.0,0.0,-0.15375644,0.33822766
+Synthesis of Prostaglandins (PG) and Thromboxanes (TX),1.13884145e-10,5.0,1.13884145e-10,-0.15375637,0.15459341
+Synthesis of active ubiquitin: roles of E1 and E2 enzymes,1.9641482e-05,22.0,1.9641482e-05,-0.14067136,-0.6159403
+Synthesis of bile acids and bile salts,2.106011e-06,7.0,2.106011e-06,-0.15235342,0.063839
+Synthesis of diphthamide-EEF2,0.00021415763,7.0,0.00021415763,-0.011085356,0.17085202
+Synthesis of dolichyl-phosphate mannose,9.845845e-11,2.0,9.845845e-11,-0.15375638,0.29231915
+Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET),0.0,1.0,0.0,-0.15375644,0.33822766
+Synthesis of glycosylphosphatidylinositol (GPI),2.1441995e-06,12.0,2.1441995e-06,-0.15232798,-0.16568463
+Synthesis of pyrophosphates in the cytosol,1.6704926e-10,2.0,1.6704926e-10,-0.15375634,0.29231918
+Synthesis of very long-chain fatty acyl-CoAs,2.3694963e-06,13.0,2.3694963e-06,-0.15217789,-0.21147949
+Synthesis of wybutosine at G37 of tRNA(Phe),3.3328644e-07,2.0,3.3328644e-07,-0.15353441,0.2924873
+"Synthesis, secretion, and deacylation of Ghrelin",3.508614e-06,6.0,3.508614e-06,-0.15141901,0.110455394
+"Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)",8.725902e-05,7.0,8.725902e-05,-0.09562478,0.10681194
+"Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)",5.744969e-06,7.0,5.744969e-06,-0.14992917,0.06567542
+T41 mutants of beta-catenin aren't phosphorylated,2.111917e-05,11.0,2.111917e-05,-0.13968693,-0.11020022
+TAK1 activates NFkB by phosphorylation and activation of IKKs complex,1.16359815e-05,17.0,1.16359815e-05,-0.14600459,-0.3904374
+"TALDO1 deficiency: failed conversion of  Fru(6)P, E4P to SH7P, GA3P",0.0,1.0,0.0,-0.15375644,0.33822766
+"TALDO1 deficiency: failed conversion of SH7P, GA3P to Fru(6)P, E4P",0.0,1.0,0.0,-0.15375644,0.33822766
+TBC/RABGAPs,2.1247857e-05,29.0,2.1247857e-05,-0.13960119,-0.93648964
+TCF7L2 mutants don't bind CTBP,3.5928198e-09,3.0,3.5928198e-09,-0.15375406,0.24641232
+"TET1,2,3 and TDG demethylate DNA",1.5768377e-10,3.0,1.5768377e-10,-0.15375634,0.2464106
+TFAP2 (AP-2) family regulates transcription of cell cycle factors,1.578158e-08,4.0,1.578158e-08,-0.15374592,0.20050988
+TFAP2 (AP-2) family regulates transcription of growth factors and their receptors,1.7698032e-07,6.0,1.7698032e-07,-0.15363854,0.10877407
+TFAP2 (AP-2) family regulates transcription of other transcription factors,0.0,1.0,0.0,-0.15375644,0.33822766
+TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation,2.6850593e-09,3.0,2.6850593e-09,-0.15375465,0.24641187
+TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition),1.3410463e-06,11.0,1.3410463e-06,-0.15286304,-0.12018136
+TGFBR1 KD Mutants in Cancer,3.4106044e-05,5.0,3.4106044e-05,-0.1310351,0.17180514
+TGFBR1 LBD Mutants in Cancer,0.00011425896,3.0,0.00011425896,-0.07763751,0.30407193
+TGFBR2 Kinase Domain Mutants in Cancer,2.1475228e-06,3.0,2.1475228e-06,-0.15232576,0.24749427
+TGFBR2 MSI Frameshift Mutants in Cancer,1.5953386e-06,2.0,1.5953386e-06,-0.15269363,0.2931242
+TICAM1 deficiency - HSE,0.0,1.0,0.0,-0.15375644,0.33822766
+"TICAM1, RIP1-mediated IKK complex recruitment ",3.2152486e-05,13.0,3.2152486e-05,-0.13233657,-0.19644934
+"TICAM1,TRAF6-dependent induction of TAK1 complex",1.7375738e-05,10.0,1.7375738e-05,-0.14218079,-0.06618078
+TICAM1-dependent activation of IRF3/IRF7,6.1843953e-06,9.0,6.1843953e-06,-0.14963642,-0.025919978
+TLR3 deficiency - HSE,0.0,1.0,0.0,-0.15375644,0.33822766
+TLR3-mediated TICAM1-dependent programmed cell death,8.882844e-06,5.0,8.882844e-06,-0.14783873,0.15907611
+TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway,2.7883844e-09,8.0,2.7883844e-09,-0.15375458,0.016869027
+TNFR1-induced NFkappaB signaling pathway,0.00021016294,12.0,0.00021016294,-0.013746604,-0.060706805
+TNFR1-induced proapoptotic signaling,4.2880947e-06,4.0,4.2880947e-06,-0.15089972,0.20266593
+TNFR1-mediated ceramide production,5.48515e-07,2.0,5.48515e-07,-0.15339102,0.29259592
+TNFs bind their physiological receptors,4.4242338e-08,5.0,4.4242338e-08,-0.15372697,0.15461567
+TP53 Regulates Metabolic Genes,2.533315e-07,49.0,2.533315e-07,-0.15358767,-1.8652562
+TP53 Regulates Transcription of Cell Cycle Genes,1.5681893e-07,24.0,1.5681893e-07,-0.15365197,-0.7175905
+TP53 Regulates Transcription of Cell Death Genes,2.9265923e-08,31.0,2.9265923e-08,-0.15373695,-1.0390149
+TP53 Regulates Transcription of DNA Repair Genes,6.4335666e-08,45.0,6.4335666e-08,-0.15371358,-1.6817173
+TRAF3 deficiency - HSE,4.0089674e-09,2.0,4.0089674e-09,-0.15375377,0.29232112
+TRAF3-dependent IRF activation pathway,0.00019704932,12.0,0.00019704932,-0.022482853,-0.06732467
+TRAF6 mediated IRF7 activation,1.6683456e-05,13.0,1.6683456e-05,-0.14264199,-0.20425588
+TRAF6 mediated NF-kB activation,2.893716e-05,14.0,2.893716e-05,-0.13447861,-0.24398054
+TRAIL  signaling,9.35446e-05,7.0,9.35446e-05,-0.09143735,0.109983996
+TRP channels,0.00040068506,4.0,0.00040068506,0.113178596,0.40270984
+TWIK related potassium channel (TREK),0.0,1.0,0.0,-0.15375644,0.33822766
+TWIK-related alkaline pH activated K+ channel (TALK),0.0,1.0,0.0,-0.15375644,0.33822766
+TWIK-related spinal cord K+ channel (TRESK),0.0,1.0,0.0,-0.15375644,0.33822766
+TWIK-releated acid-sensitive K+ channel (TASK),0.0,1.0,0.0,-0.15375644,0.33822766
+TYSND1 cleaves peroxisomal proteins,0.004103159,6.0,0.004103159,2.5797544,2.1793668
+Tandem of pore domain in a weak inwardly rectifying K+ channels (TWIK),2.6941316e-07,3.0,2.6941316e-07,-0.15357696,0.24654648
+Tandem pore domain halothane-inhibited K+ channel (THIK),0.0,1.0,0.0,-0.15375644,0.33822766
+Telomere C-strand (Lagging Strand) Synthesis,0.0012068574,17.0,0.0012068574,0.6502479,0.21273772
+Telomere Extension By Telomerase,5.8479418e-05,2.0,5.8479418e-05,-0.11479765,0.32183105
+Terminal pathway of complement,0.0,1.0,0.0,-0.15375644,0.33822766
+Termination of O-glycan biosynthesis,4.759939e-05,6.0,4.759939e-05,-0.12204589,0.13270605
+Termination of translesion DNA synthesis,1.15469165e-05,20.0,1.15469165e-05,-0.14606392,-0.52820814
+"Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation",7.892121e-06,7.0,7.892121e-06,-0.14849874,0.066759
+The AIM2 inflammasome,6.8646266e-08,2.0,6.8646266e-08,-0.15371071,0.29235372
+The IPAF inflammasome,1.7540906e-07,3.0,1.7540906e-07,-0.15363958,0.24649903
+The NLRP1 inflammasome,1.0782105e-06,3.0,1.0782105e-06,-0.15303814,0.24695462
+The NLRP3 inflammasome,3.4193108e-06,9.0,3.4193108e-06,-0.15147851,-0.027315393
+The activation of arylsulfatases,6.5152795e-05,6.0,6.5152795e-05,-0.11035187,0.14156447
+The fatty acid cycling model,0.0,1.0,0.0,-0.15375644,0.33822766
+The proton buffering model,0.0,1.0,0.0,-0.15375644,0.33822766
+The role of GTSE1 in G2/M progression after G2 checkpoint,8.479975e-06,35.0,8.479975e-06,-0.14810711,-1.2183845
+The role of Nef in HIV-1 replication and disease pathogenesis,5.559061e-06,22.0,5.559061e-06,-0.15005301,-0.62304705
+Threonine catabolism,3.8091034e-07,3.0,3.8091034e-07,-0.15350269,0.24660274
+Thrombin signalling through proteinase activated receptors (PARs),0.000109611035,19.0,0.000109611035,-0.08073394,-0.43281093
+Thromboxane signalling through TP receptor,2.2195297e-07,14.0,2.2195297e-07,-0.15360859,-0.25847182
+Tie2 Signaling,1.4225075e-08,12.0,1.4225075e-08,-0.15374696,-0.16675954
+Tight junction interactions,1.495345e-06,10.0,1.495345e-06,-0.15276025,-0.074194916
+Tolerance by Mtb to nitric oxide produced by macrophages,0.0,1.0,0.0,-0.15375644,0.33822766
+Tolerance of reactive oxygen produced by macrophages,0.0,1.0,0.0,-0.15375644,0.33822766
+Toxicity of botulinum toxin type A (BoNT/A),3.741972e-08,2.0,3.741972e-08,-0.15373152,0.29233798
+Toxicity of botulinum toxin type B (BoNT/B),3.2764817e-08,2.0,3.2764817e-08,-0.15373461,0.29233563
+Toxicity of botulinum toxin type C (BoNT/C),3.0785905e-08,3.0,3.0785905e-08,-0.15373594,0.24642605
+Toxicity of botulinum toxin type D (BoNT/D),3.2958522e-07,4.0,3.2958522e-07,-0.15353687,0.20066825
+Toxicity of botulinum toxin type E (BoNT/E),1.2821636e-07,2.0,1.2821636e-07,-0.15367103,0.29238382
+Toxicity of botulinum toxin type F (BoNT/F),6.476271e-08,4.0,6.476271e-08,-0.1537133,0.2005346
+Toxicity of botulinum toxin type G (BoNT/G),1.6763348e-08,3.0,1.6763348e-08,-0.15374528,0.24641897
+Toxicity of tetanus toxin (TeNT),2.2247022e-09,2.0,2.2247022e-09,-0.15375496,0.29232022
+Trafficking and processing of endosomal TLR,3.9300735e-07,7.0,3.9300735e-07,-0.15349463,0.062974535
+Trafficking of AMPA receptors,3.0614e-09,14.0,3.0614e-09,-0.15375441,-0.2585823
+Trafficking of myristoylated proteins to the cilium,1.0086175e-08,4.0,1.0086175e-08,-0.15374972,0.20050701
+Transcription of E2F targets under negative control by DREAM complex,0.00050759286,11.0,0.00050759286,0.18440022,0.13530144
+Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1,0.0020078933,6.0,0.0020078933,1.1838953,1.1219792
+Transcriptional Regulation by E2F6,1.4735276e-06,22.0,1.4735276e-06,-0.15277478,-0.62510884
+Transcriptional activation of mitochondrial biogenesis,6.7951165e-05,19.0,6.7951165e-05,-0.10848761,-0.4538348
+Transcriptional regulation by small RNAs,2.869877e-07,40.0,2.869877e-07,-0.15356524,-1.452062
+Transcriptional regulation of white adipocyte differentiation,7.5307153e-06,40.0,7.5307153e-06,-0.1487395,-1.4484065
+Transfer of LPS from LBP carrier to CD14,0.0,1.0,0.0,-0.15375644,0.33822766
+Transferrin endocytosis and recycling,0.0037788476,16.0,0.0037788476,2.3636992,1.5566154
+Translesion Synthesis by POLH,8.170657e-09,12.0,8.170657e-09,-0.153751,-0.16676258
+Translesion synthesis by POLI,2.9266073e-06,11.0,2.9266073e-06,-0.15180674,-0.11938119
+Translesion synthesis by POLK,4.466566e-06,11.0,4.466566e-06,-0.15078083,-0.11860405
+Translesion synthesis by REV1,2.500541e-06,11.0,2.500541e-06,-0.1520906,-0.119596206
+Translocation of SLC2A4 (GLUT4) to the plasma membrane,1.5729639e-06,34.0,1.5729639e-06,-0.15270855,-1.1759616
+Translocation of ZAP-70 to Immunological synapse,3.7201794e-08,3.0,3.7201794e-08,-0.15373166,0.24642928
+Transport and synthesis of PAPS,1.4797461e-05,4.0,1.4797461e-05,-0.14389843,0.20796955
+Transport of Mature mRNA Derived from an Intronless Transcript,1.0835565e-07,11.0,1.0835565e-07,-0.15368426,-0.120803446
+Transport of Mature mRNA derived from an Intron-Containing Transcript,0.0008219156,59.0,0.0008219156,0.39380094,-1.9096855
+Transport of Ribonucleoproteins into the Host Nucleus,5.6862704e-05,3.0,5.6862704e-05,-0.11587471,0.27510658
+Transport of fatty acids,2.697333e-05,3.0,2.697333e-05,-0.1357869,0.26002273
+Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus,0.0,1.0,0.0,-0.15375644,0.33822766
+Transport of glycerol from adipocytes to the liver by Aquaporins,0.0,1.0,0.0,-0.15375644,0.33822766
+Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane,1.0908725e-06,2.0,1.0908725e-06,-0.15302971,0.2928696
+Transport of nucleotide sugars,3.185773e-05,8.0,3.185773e-05,-0.13253294,0.0329448
+Transport of organic anions,2.0952575e-06,4.0,2.0952575e-06,-0.15236059,0.20155929
+Transport of the SLBP Dependant Mature mRNA,5.284001e-07,6.0,5.284001e-07,-0.15340443,0.10895141
+Transport of the SLBP independent Mature mRNA,1.6313592e-08,6.0,1.6313592e-08,-0.15374558,0.10869298
+Triglyceride biosynthesis,1.3774734e-06,7.0,1.3774734e-06,-0.15283878,0.06347135
+Triglyceride catabolism,8.242942e-07,10.0,8.242942e-07,-0.1532073,-0.07453356
+"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA",5.3317885e-06,11.0,5.3317885e-06,-0.15020442,-0.1181674
+Truncations of AMER1 destabilize the destruction complex,1.01735795e-05,10.0,1.01735795e-05,-0.14697884,-0.0698154
+Tryptophan catabolism,6.710445e-08,6.0,6.710445e-08,-0.15371174,0.10871862
+Type I hemidesmosome assembly,8.5460204e-07,4.0,8.5460204e-07,-0.15318711,0.20093322
+Type II Na+/Pi cotransporters,5.9101557e-10,2.0,5.9101557e-10,-0.15375605,0.29231942
+UCH proteinases,7.769698e-06,61.0,7.769698e-06,-0.1485803,-2.4123662
+UNC93B1 deficiency - HSE,0.0,1.0,0.0,-0.15375644,0.33822766
+Ub-specific processing proteases,0.007028522,114.0,6.16537e-05,-0.11268295,-1.302459
+Ubiquinol biosynthesis,7.2678145e-06,5.0,7.2678145e-06,-0.14891465,0.15826109
+Ubiquitin-dependent degradation of Cyclin D1,0.00010233992,33.0,0.00010233992,-0.085577935,-1.0792004
+"Unblocking of NMDA receptor, glutamate binding and activation",1.1285881e-05,6.0,1.1285881e-05,-0.14623782,0.11438024
+Unwinding of DNA,7.574876e-05,9.0,7.574876e-05,-0.103292875,0.009186062
+Uptake and function of anthrax toxins,1.5045428e-06,7.0,1.5045428e-06,-0.15275413,0.06353547
+Uptake and function of diphtheria toxin,2.7390377e-07,3.0,2.7390377e-07,-0.15357396,0.24654876
+Urea cycle,3.0271092e-05,2.0,3.0271092e-05,-0.13358994,0.30759558
+Utilization of Ketone Bodies,1.720119e-08,3.0,1.720119e-08,-0.15374498,0.24641919
+VEGF binds to VEGFR leading to receptor dimerization,2.2815179e-07,3.0,2.2815179e-07,-0.15360445,0.24652563
+VEGFR2 mediated cell proliferation,0.00027600207,12.0,0.00027600207,0.030115206,-0.027480723
+VEGFR2 mediated vascular permeability,0.00058371783,19.0,0.00058371783,0.23511441,-0.19355027
+VLDL assembly,0.0,1.0,0.0,-0.15375644,0.33822766
+VLDL clearance,0.0001854674,2.0,0.0001854674,-0.030198684,0.38591626
+VLDLR internalisation and degradation,0.00025911524,7.0,0.00025911524,0.018865258,0.19354014
+Variant SLC6A14 may confer susceptibility towards obesity,0.0,1.0,0.0,-0.15375644,0.33822766
+Variant SLC6A20 contributes towards hyperglycinuria (HG) and iminoglycinuria (IG),0.0,1.0,0.0,-0.15375644,0.33822766
+Variant SLC6A20 contributes towards hyperglycinuria (HG) and iminoglycinuria (IG),0.0,1.0,0.0,-0.15375644,0.33822766
+Variant SLC6A20 contributes towards hyperglycinuria (HG) and iminoglycinuria (IG),0.0,1.0,0.0,-0.15375644,0.33822766
+Variant SLC6A20 contributes towards hyperglycinuria (HG) and iminoglycinuria (IG),0.0,1.0,0.0,-0.15375644,0.33822766
+Vasopressin regulates renal water homeostasis via Aquaporins,0.00013943351,20.0,0.00013943351,-0.060866307,-0.46366945
+Vif-mediated degradation of APOBEC3G,1.3399598e-05,33.0,1.3399598e-05,-0.14482968,-1.1240846
+Virus Assembly and Release,0.0,1.0,0.0,-0.15375644,0.33822766
+Vitamin B1 (thiamin) metabolism,2.0397381e-10,4.0,2.0397381e-10,-0.1537563,0.20050202
+Vitamin B2 (riboflavin) metabolism,7.1074006e-05,4.0,7.1074006e-05,-0.10640719,0.2363698
+Vitamin C (ascorbate) metabolism,8.290006e-06,4.0,8.290006e-06,-0.14823367,0.20468551
+Vitamin D (calciferol) metabolism,5.536571e-07,7.0,5.536571e-07,-0.1533876,0.063055605
+Vitamin E,0.0,1.0,0.0,-0.15375644,0.33822766
+Vitamins,2.2145816e-08,2.0,2.2145816e-08,-0.15374169,0.2923303
+Vitamins B6 activation to pyridoxal phosphate,5.702611e-08,2.0,5.702611e-08,-0.15371846,0.29234788
+Voltage gated Potassium channels,5.6742827e-08,11.0,5.6742827e-08,-0.15371865,-0.12082949
+Vpu mediated degradation of CD4,5.554902e-05,32.0,5.554902e-05,-0.11674987,-1.056905
+VxPx cargo-targeting to cilium,0.00020741922,16.0,0.00020741922,-0.015574462,-0.24572577
+WNT ligand biogenesis and trafficking,3.0021936e-06,7.0,3.0021936e-06,-0.15175639,0.064291276
+WNT ligand secretion is abrogated by the PORCN inhibitor LGK974,0.0,1.0,0.0,-0.15375644,0.33822766
+WNT mediated activation of DVL,6.938799e-05,6.0,6.938799e-05,-0.1075304,0.14370179
+"WNT5A-dependent internalization of FZD2, FZD5 and ROR2",1.7949155e-06,3.0,1.7949155e-06,-0.15256067,0.24731633
+WNT5A-dependent internalization of FZD4,7.182392e-05,9.0,7.182392e-05,-0.10590759,0.007205369
+Wax biosynthesis,2.3677031e-09,3.0,2.3677031e-09,-0.15375486,0.24641171
+"XAV939 inhibits tankyrase, stabilizing AXIN",1.081652e-10,2.0,1.081652e-10,-0.15375638,0.29231915
+XBP1(S) activates chaperone genes,0.002798196,31.0,0.002798196,1.7103922,0.3730954
+Xenobiotics,0.0,1.0,0.0,-0.15375644,0.33822766
+YAP1- and WWTR1 (TAZ)-stimulated gene expression,8.8239965e-10,4.0,8.8239965e-10,-0.15375586,0.20050237
+Zinc transporters,2.094017e-05,8.0,2.094017e-05,-0.13980617,0.02743519
+alpha-linolenic acid (ALA) metabolism,4.358118e-06,8.0,4.358118e-06,-0.15085308,0.019066967
+c-src mediated regulation of Cx43 function and closure of gap junctions,5.6403087e-06,3.0,5.6403087e-06,-0.14999889,0.24925692
+cGMP effects,1.8323919e-05,3.0,1.8323919e-05,-0.14154911,0.2556578
+eNOS activation,3.8000537e-05,7.0,3.8000537e-05,-0.12844062,0.08195338
+mRNA 3'-end processing,2.828783e-05,46.0,2.828783e-05,-0.13491118,-1.7133827
+mRNA Capping,0.0001504756,23.0,0.0001504756,-0.05351011,-0.5958227
+mRNA Splicing - Major Pathway,7.555397e-05,133.0,5.68075e-07,-0.153378,-5.683576
+mRNA Splicing - Minor Pathway,2.6556932e-05,38.0,2.6556932e-05,-0.1360643,-1.3469876
+mRNA decay by 3' to 5' exoribonuclease,1.155111e-06,14.0,1.155111e-06,-0.15298691,-0.2580009
+mRNA decay by 5' to 3' exoribonuclease,9.123273e-08,12.0,9.123273e-08,-0.15369567,-0.16672066
+mTORC1-mediated signalling,3.154326e-06,12.0,3.154326e-06,-0.15165503,-0.16517484
+mitochondrial fatty acid beta-oxidation of saturated fatty acids,8.087791e-06,7.0,8.087791e-06,-0.14836839,0.06685774
+mitochondrial fatty acid beta-oxidation of unsaturated fatty acids,2.3097994e-06,2.0,2.3097994e-06,-0.15221767,0.29348475
+p130Cas linkage to MAPK signaling for integrins,0.0020459166,8.0,0.0020459166,1.2092264,1.0493507
+p53-Dependent G1 DNA Damage Response,3.5922116e-05,39.0,3.5922116e-05,-0.12982525,-1.38817
+p53-Independent DNA Damage Response,8.195947e-07,32.0,8.195947e-07,-0.15321043,-1.0845246
+p75NTR negatively regulates cell cycle via SC1,2.7361511e-06,5.0,2.7361511e-06,-0.15193363,0.15597416
+p75NTR recruits signalling complexes,6.464105e-05,10.0,6.464105e-05,-0.11069279,-0.042328082
+rRNA modification in the mitochondrion,7.5592084e-07,4.0,7.5592084e-07,-0.15325285,0.2008834
+rRNA modification in the nucleus and cytosol,7.1966696e-07,38.0,7.1966696e-07,-0.15327701,-1.3600265
+snRNP Assembly,0.0004721976,12.0,0.0004721976,0.16082,0.07153045
+tRNA modification in the mitochondrion,4.5320644e-06,6.0,4.5320644e-06,-0.1507372,0.11097188
+tRNA processing in the mitochondrion,1.2811495e-06,2.0,1.2811495e-06,-0.15290295,0.29296565
+tRNA processing in the nucleus,3.208066e-05,39.0,3.208066e-05,-0.13238442,-1.3901086
+via Dependence Receptors in the absence of ligand,8.81182e-06,9.0,8.81182e-06,-0.14788604,-0.024594031
